@@ -180,10 +180,10 @@ python-magic==0.4.27
 python-multipart==0.0.12
 python-oxmsg==0.0.1
 python-slugify==8.0.4
-pytz==2024.2
-pywin32==306
-pywin32-ctypes==0.2.3
-pywinpty==2.0.13
+pywin32==306; sys_platform == "win32"
+pytz>=2023.3
+pywinpty==2.0.13; sys_platform == "win32"
+pywin32-ctypes==0.2.3; sys_platform == "win32"
 PyYAML==6.0.2
 pyzmq==26.2.0
 RapidFuzz==3.10.0
@@ -261,4 +261,5 @@ wrapt==1.16.0
 wsproto==1.2.0
 xgboost==3.0.4
 XlsxWriter==3.2.0
+
 
