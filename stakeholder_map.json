@@ -1,0 +1,213 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 90089,
+        "labels": [
+          "PUBLICATION_LTWO_Document"
+        ],
+        "properties": {
+          "name": "D6",
+          "doc": "Compliance with the Nitrates Directive: Implications for Ireland"
+        },
+        "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90089"
+      },
+      "end": {
+        "identity": 90303,
+        "labels": [
+          "PUBLICATION_LTWO_SecondaryLabel"
+        ],
+        "properties": {
+          "name": "Producers 006",
+          "uuid": "164d3d0b-779b-4869-a82b-8cb86957721c"
+        },
+        "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90303"
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 90089,
+            "labels": [
+              "PUBLICATION_LTWO_Document"
+            ],
+            "properties": {
+              "name": "D6",
+              "doc": "Compliance with the Nitrates Directive: Implications for Ireland"
+            },
+            "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90089"
+          },
+          "relationship": {
+            "identity": 1153356911211536361,
+            "start": 90089,
+            "end": 90091,
+            "type": "PUBLICATION_LTWO_HAS_AUTHOR",
+            "properties": {
+
+            },
+            "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153356911211536361",
+            "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90089",
+            "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90091"
+          },
+          "end": {
+            "identity": 90091,
+            "labels": [
+              "PUBLICATION_LTWO_Author"
+            ],
+            "properties": {
+              "docName": "D6",
+              "name": "Joint Committee on Agriculture, Food and the Marine"
+            },
+            "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90091"
+          }
+        },
+        {
+          "start": {
+            "identity": 90091,
+            "labels": [
+              "PUBLICATION_LTWO_Author"
+            ],
+            "properties": {
+              "docName": "D6",
+              "name": "Joint Committee on Agriculture, Food and the Marine"
+            },
+            "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90091"
+          },
+          "relationship": {
+            "identity": 1153358010723164139,
+            "start": 90091,
+            "end": 2573,
+            "type": "PUBLICATION_LTWO_HAS_YEAR",
+            "properties": {
+
+            },
+            "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153358010723164139",
+            "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90091",
+            "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2573"
+          },
+          "end": {
+            "identity": 2573,
+            "labels": [
+              "PUBLICATION_LTWO_Year"
+            ],
+            "properties": {
+              "docName": "D6",
+              "value": "2024"
+            },
+            "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2573"
+          }
+        },
+        {
+          "start": {
+            "identity": 2573,
+            "labels": [
+              "PUBLICATION_LTWO_Year"
+            ],
+            "properties": {
+              "docName": "D6",
+              "value": "2024"
+            },
+            "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2573"
+          },
+          "relationship": {
+            "identity": 1153359110234704397,
+            "start": 2573,
+            "end": 90301,
+            "type": "PUBLICATION_LTWO_HAS_PRIMARY_LABEL",
+            "properties": {
+
+            },
+            "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153359110234704397",
+            "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2573",
+            "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90301"
+          },
+          "end": {
+            "identity": 90301,
+            "labels": [
+              "PUBLICATION_LTWO_PrimaryLabel"
+            ],
+            "properties": {
+              "docName": "D6",
+              "year": "2024",
+              "name": "Trade Association 010"
+            },
+            "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90301"
+          }
+        },
+        {
+          "start": {
+            "identity": 90301,
+            "labels": [
+              "PUBLICATION_LTWO_PrimaryLabel"
+            ],
+            "properties": {
+              "docName": "D6",
+              "year": "2024",
+              "name": "Trade Association 010"
+            },
+            "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90301"
+          },
+          "relationship": {
+            "identity": 1153360209746419901,
+            "start": 90301,
+            "end": 90302,
+            "type": "PUBLICATION_LTWO_HAS_TAG",
+            "properties": {
+
+            },
+            "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153360209746419901",
+            "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90301",
+            "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90302"
+          },
+          "end": {
+            "identity": 90302,
+            "labels": [
+              "PUBLICATION_LTWO_Tag"
+            ],
+            "properties": {
+              "name": "Regulates",
+              "context": "ICOS estimates that dairy farmers will need to reduce cow numbers significantly to comply with new stocking rate regulations, impacting their profitability."
+            },
+            "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90302"
+          }
+        },
+        {
+          "start": {
+            "identity": 90302,
+            "labels": [
+              "PUBLICATION_LTWO_Tag"
+            ],
+            "properties": {
+              "name": "Regulates",
+              "context": "ICOS estimates that dairy farmers will need to reduce cow numbers significantly to comply with new stocking rate regulations, impacting their profitability."
+            },
+            "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90302"
+          },
+          "relationship": {
+            "identity": 1153361309258047678,
+            "start": 90302,
+            "end": 90303,
+            "type": "PUBLICATION_LTWO_POINTS_TO_SECONDARY",
+            "properties": {
+
+            },
+            "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153361309258047678",
+            "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90302",
+            "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90303"
+          },
+          "end": {
+            "identity": 90303,
+            "labels": [
+              "PUBLICATION_LTWO_SecondaryLabel"
+            ],
+            "properties": {
+              "name": "Producers 006",
+              "uuid": "164d3d0b-779b-4869-a82b-8cb86957721c"
+            },
+            "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:90303"
+          }
+        }
+      ],
+      "length": 5.0
+    }
+  }
+]

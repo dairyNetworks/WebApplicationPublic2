@@ -1,0 +1,2790 @@
+﻿[
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93182,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 041"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93182"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93314,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 098"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93314"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93315,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 018"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93315"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93316,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "International organisation 020"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93316"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93317,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 048"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93317"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93182,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 041"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93182"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93314,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 098"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93314"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93315,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 018"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93315"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93316,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "International organisation 020"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93316"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93317,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 048"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93317"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93182,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 041"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93182"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93183,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93183"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93313,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 035"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93313"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93314,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 098"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93314"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93315,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 018"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93315"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93316,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "International organisation 020"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93316"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93317,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 048"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93317"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93168,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93168"
+    },
+    "a": {
+      "identity": 93174,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 1 ACTION 5"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93174"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93171,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93171"
+    },
+    "as": {
+      "identity": 93178,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93178"
+    },
+    "l": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93169,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93169"
+    },
+    "a": {
+      "identity": 93175,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7 ACTION 3"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93175"
+    },
+    "s": {
+      "identity": 93319,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93319"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93172,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Strengthen and Invest in Origin Green and Other Sustainability Supports to Reflect the Higher Level of Ambition for the Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93172"
+    },
+    "as": {
+      "identity": 93179,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "The metrics and evidence base from  Origin Green need to be improved."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93179"
+    },
+    "l": {
+      "identity": 93319,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93319"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93169,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93169"
+    },
+    "a": {
+      "identity": 93175,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7 ACTION 3"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93175"
+    },
+    "s": {
+      "identity": 93319,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93319"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93172,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Strengthen and Invest in Origin Green and Other Sustainability Supports to Reflect the Higher Level of Ambition for the Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93172"
+    },
+    "as": {
+      "identity": 93179,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "The metrics and evidence base from  Origin Green need to be improved."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93179"
+    },
+    "l": {
+      "identity": 93320,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Producers 032"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93320"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93169,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93169"
+    },
+    "a": {
+      "identity": 93175,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7 ACTION 3"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93175"
+    },
+    "s": {
+      "identity": 93319,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93319"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93172,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Strengthen and Invest in Origin Green and Other Sustainability Supports to Reflect the Higher Level of Ambition for the Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93172"
+    },
+    "as": {
+      "identity": 93179,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "The metrics and evidence base from  Origin Green need to be improved."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93179"
+    },
+    "l": {
+      "identity": 93321,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Processors 011"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93321"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93169,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93169"
+    },
+    "a": {
+      "identity": 93175,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7 ACTION 3"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93175"
+    },
+    "s": {
+      "identity": 93319,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93319"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93172,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Strengthen and Invest in Origin Green and Other Sustainability Supports to Reflect the Higher Level of Ambition for the Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93172"
+    },
+    "as": {
+      "identity": 93179,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "The metrics and evidence base from  Origin Green need to be improved."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93179"
+    },
+    "l": {
+      "identity": 93322,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "State Agencies and Local Authorities 016"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93322"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93169,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93169"
+    },
+    "a": {
+      "identity": 93176,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7 ACTION 10"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93176"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93172,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Strengthen and Invest in Origin Green and Other Sustainability Supports to Reflect the Higher Level of Ambition for the Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93172"
+    },
+    "as": {
+      "identity": 93180,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Increase focus on awareness building  of sustainability supports among  Enterprise Ireland’s Food & Drinks  clients."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93180"
+    },
+    "l": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93169,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93169"
+    },
+    "a": {
+      "identity": 93176,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7 ACTION 10"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93176"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93172,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Strengthen and Invest in Origin Green and Other Sustainability Supports to Reflect the Higher Level of Ambition for the Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93172"
+    },
+    "as": {
+      "identity": 93180,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Increase focus on awareness building  of sustainability supports among  Enterprise Ireland’s Food & Drinks  clients."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93180"
+    },
+    "l": {
+      "identity": 93323,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Department of Business, Employment and Retail 003"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93323"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93169,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93169"
+    },
+    "a": {
+      "identity": 93176,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7 ACTION 10"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93176"
+    },
+    "s": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93172,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Strengthen and Invest in Origin Green and Other Sustainability Supports to Reflect the Higher Level of Ambition for the Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93172"
+    },
+    "as": {
+      "identity": 93180,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Increase focus on awareness building  of sustainability supports among  Enterprise Ireland’s Food & Drinks  clients."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93180"
+    },
+    "l": {
+      "identity": 93324,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Semi-state agency  011"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93324"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93169,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93169"
+    },
+    "a": {
+      "identity": 93176,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7 ACTION 10"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93176"
+    },
+    "s": {
+      "identity": 93324,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Semi-state agency  011"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93324"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93172,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Strengthen and Invest in Origin Green and Other Sustainability Supports to Reflect the Higher Level of Ambition for the Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93172"
+    },
+    "as": {
+      "identity": 93180,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Increase focus on awareness building  of sustainability supports among  Enterprise Ireland’s Food & Drinks  clients."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93180"
+    },
+    "l": {
+      "identity": 93318,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Branding, Marketing and Distribution 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93318"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93169,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93169"
+    },
+    "a": {
+      "identity": 93176,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7 ACTION 10"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93176"
+    },
+    "s": {
+      "identity": 93324,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Semi-state agency  011"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93324"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93172,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Strengthen and Invest in Origin Green and Other Sustainability Supports to Reflect the Higher Level of Ambition for the Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93172"
+    },
+    "as": {
+      "identity": 93180,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Increase focus on awareness building  of sustainability supports among  Enterprise Ireland’s Food & Drinks  clients."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93180"
+    },
+    "l": {
+      "identity": 93323,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Department of Business, Employment and Retail 003"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93323"
+    }
+  },
+  {
+    "m": {
+      "identity": 93164,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION"
+      ],
+      "properties": {
+        "name": "MISSION 1"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93164"
+    },
+    "g": {
+      "identity": 93169,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93169"
+    },
+    "a": {
+      "identity": 93176,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION"
+      ],
+      "properties": {
+        "name": "MISSION 1 GOAL 7 ACTION 10"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93176"
+    },
+    "s": {
+      "identity": 93324,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Semi-state agency  011"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93324"
+    },
+    "ms": {
+      "identity": 93166,
+      "labels": [
+        "CARBON_FVRA_LTWO_MISSION_STATEMENT"
+      ],
+      "properties": {
+        "text": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93166"
+    },
+    "gs": {
+      "identity": 93172,
+      "labels": [
+        "CARBON_FVRA_LTWO_GOAL_STATEMENT"
+      ],
+      "properties": {
+        "text": "Strengthen and Invest in Origin Green and Other Sustainability Supports to Reflect the Higher Level of Ambition for the Agri-Food Sector"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93172"
+    },
+    "as": {
+      "identity": 93180,
+      "labels": [
+        "CARBON_FVRA_LTWO_ACTION_STATEMENT"
+      ],
+      "properties": {
+        "text": "Increase focus on awareness building  of sustainability supports among  Enterprise Ireland’s Food & Drinks  clients."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93180"
+    },
+    "l": {
+      "identity": 93324,
+      "labels": [
+        "CARBON_FVRA_LTWO_LABEL"
+      ],
+      "properties": {
+        "name": "Semi-state agency  011"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:93324"
+    }
+  }
+]

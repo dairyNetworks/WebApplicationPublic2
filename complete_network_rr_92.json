@@ -1,0 +1,2907 @@
+﻿[
+  {
+    "l": {
+      "identity": 96458,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research And Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96458"
+    },
+    "r1": {
+      "identity": 6918065589315438785,
+      "start": 96458,
+      "end": 2241,
+      "type": "UG_LABEL_HAS_ACTION_FW",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918065589315438785",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96458",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "n1": {
+      "identity": 2241,
+      "labels": [
+        "UG_FW_ACTIONS"
+      ],
+      "properties": {
+        "shortrecommendation": "Education Programmes",
+        "shortaction": "Increase enrolment in dairy programmes",
+        "name": "Increase enrolments in Level 6 Advanced Dairy Programme and Professional Diploma in Dairy Farm Management and seek to fast track entry to the latter in association with UCD.",
+        "topic": "live",
+        "recommendation": "Education Programmes",
+        "source": "Food Wise"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "r2": {
+      "identity": 6918065589315438785,
+      "start": 96458,
+      "end": 2241,
+      "type": "UG_LABEL_HAS_ACTION_FW",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918065589315438785",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96458",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "n2": {
+      "identity": 96458,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research And Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96458"
+    }
+  },
+  {
+    "l": {
+      "identity": 96458,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research And Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96458"
+    },
+    "r1": {
+      "identity": 6918065589315438785,
+      "start": 96458,
+      "end": 2241,
+      "type": "UG_LABEL_HAS_ACTION_FW",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918065589315438785",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96458",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "n1": {
+      "identity": 2241,
+      "labels": [
+        "UG_FW_ACTIONS"
+      ],
+      "properties": {
+        "shortrecommendation": "Education Programmes",
+        "shortaction": "Increase enrolment in dairy programmes",
+        "name": "Increase enrolments in Level 6 Advanced Dairy Programme and Professional Diploma in Dairy Farm Management and seek to fast track entry to the latter in association with UCD.",
+        "topic": "live",
+        "recommendation": "Education Programmes",
+        "source": "Food Wise"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "r2": {
+      "identity": 6920317389129124033,
+      "start": 96504,
+      "end": 2241,
+      "type": "UG_LABEL_HAS_ACTION_FW",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920317389129124033",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780555650,
+      "start": 96504,
+      "end": 2434,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555650",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2434"
+    },
+    "n1": {
+      "identity": 2434,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speakers express a neutral stance on carbon, highlighting the necessity for significant reductions in nitrogen and nitrate levels across diverse catchments, regardless of agricultural practices. They also note that the use of chemical fertilizers can quickly elevate nitrogen levels in water quality, particularly after adverse conditions, indicating a complex relationship between agricultural practices and environmental impact.",
+        "name": "Lecturer",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2434"
+    },
+    "r2": {
+      "identity": 6918062290780555650,
+      "start": 96504,
+      "end": 2434,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555650",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2434"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780555659,
+      "start": 96504,
+      "end": 2443,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555659",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2443"
+    },
+    "n1": {
+      "identity": 2443,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively highlight the importance of achieving substantial reductions in nitrogen loads and enhancing nitrogen use efficiencies within the agricultural sector, underscoring a unified support for these measures in relation to carbon management.",
+        "name": "Lecturer",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2443"
+    },
+    "r2": {
+      "identity": 6918062290780555659,
+      "start": 96504,
+      "end": 2443,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555659",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2443"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780555668,
+      "start": 96504,
+      "end": 2452,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555668",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2452"
+    },
+    "n1": {
+      "identity": 2452,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The speakers express a neutral sentiment regarding water, highlighting the complexities of nitrogen movement and its varying impacts on water quality, particularly in karst areas and agricultural contexts. They emphasize the significance of location, timing, and monitoring in understanding water quality improvements and the effects of agricultural practices on nitrogen levels. While there is a consensus on the need for significant reductions in nitrogen across different catchments, there is also recognition of the limited areas affected by high nitrate concentrations in drinking water.",
+        "name": "Lecturer",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2452"
+    },
+    "r2": {
+      "identity": 6918062290780555668,
+      "start": 96504,
+      "end": 2452,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555668",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2452"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780555671,
+      "start": 96504,
+      "end": 2455,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555671",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2455"
+    },
+    "n1": {
+      "identity": 2455,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker highlights the importance of Ireland maintaining and improving the quality of its water bodies, particularly by ensuring that those not currently meeting \"good\" status show progress.",
+        "name": "Lecturer",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2455"
+    },
+    "r2": {
+      "identity": 6918062290780555671,
+      "start": 96504,
+      "end": 2455,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555671",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2455"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780555697,
+      "start": 96504,
+      "end": 2481,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555697",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2481"
+    },
+    "n1": {
+      "identity": 2481,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The speakers recognize that although the transport sector claims zero tailpipe emissions, it does not equate to being fully zero-emission when considering the carbon accounting associated with fuel sales. This highlights a shared understanding of the complexities involved in carbon emissions reporting.",
+        "name": "Lecturer in the School of Agriculture and Food Science",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2481"
+    },
+    "r2": {
+      "identity": 6918062290780555697,
+      "start": 96504,
+      "end": 2481,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555697",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2481"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780555705,
+      "start": 96504,
+      "end": 2489,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555705",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2489"
+    },
+    "n1": {
+      "identity": 2489,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The speakers collectively advocate for various strategies to support carbon reduction, emphasizing the importance of incentivizing lower-emission vehicles through regulatory adjustments and taxation. They highlight the need for carbon counting mechanisms in climate action plans and suggest that incremental tax increases on higher-emitting vehicles can facilitate both emissions reduction and the adoption of electric vehicles. There are no significant conflicting views among the speakers, as all express a unified support for these approaches.",
+        "name": "Lecturer in the School of Agriculture and Food Science",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2489"
+    },
+    "r2": {
+      "identity": 6918062290780555705,
+      "start": 96504,
+      "end": 2489,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555705",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2489"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780555708,
+      "start": 96504,
+      "end": 2492,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555708",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2492"
+    },
+    "n1": {
+      "identity": 2492,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker supports the implementation of taxation as a means to encourage lower emissions and enhance sustainable public transport in rural areas.",
+        "name": "Lecturer in the School of Agriculture and Food Science",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2492"
+    },
+    "r2": {
+      "identity": 6918062290780555708,
+      "start": 96504,
+      "end": 2492,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780555708",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2492"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780621755,
+      "start": 96504,
+      "end": 68539,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780621755",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68539"
+    },
+    "n1": {
+      "identity": 68539,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively support the importance of certification and robust measurement models, such as soil sampling, for validating carbon analysis in trading. They advocate for economic incentives that reward farmers for managing carbon and enhancing biodiversity, highlighting a shift from traditional agricultural productivity metrics. While there is a consensus on the need for effective measurement and certification, the emphasis on rewarding farmers reflects a broader vision for integrating carbon management into agricultural practices.",
+        "name": "Professor",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68539"
+    },
+    "r2": {
+      "identity": 6918062290780621755,
+      "start": 96504,
+      "end": 68539,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780621755",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68539"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780621766,
+      "start": 96504,
+      "end": 68550,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780621766",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68550"
+    },
+    "n1": {
+      "identity": 68550,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker emphasizes the importance of incentivizing farmers for their role in carbon management, highlighting that as carbon prices rise, their contributions to biodiversity and emissions reduction should be recognized and rewarded.",
+        "name": "Professor",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68550"
+    },
+    "r2": {
+      "identity": 6918062290780621766,
+      "start": 96504,
+      "end": 68550,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780621766",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68550"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780623849,
+      "start": 96504,
+      "end": 70633,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780623849",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:70633"
+    },
+    "n1": {
+      "identity": 70633,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker highlights the critical need to reduce emissions and tackle biodiversity loss within the framework of environmental policy, underscoring the interconnectedness of these issues in the context of carbon management.",
+        "name": "Professor in the School of Architecture, Planning and Environmental Policy",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:70633"
+    },
+    "r2": {
+      "identity": 6918062290780623849,
+      "start": 96504,
+      "end": 70633,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780623849",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:70633"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780623874,
+      "start": 96504,
+      "end": 70658,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780623874",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:70658"
+    },
+    "n1": {
+      "identity": 70658,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively highlight the critical importance of reducing emissions and addressing biodiversity loss as essential components of environmental policy. Their statements reflect a unified support for these obligations, underscoring their significance in promoting sustainable practices.",
+        "name": "Professor in the School of Architecture, Planning and Environmental Policy",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:70658"
+    },
+    "r2": {
+      "identity": 6918062290780623874,
+      "start": 96504,
+      "end": 70658,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780623874",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:70658"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780623983,
+      "start": 96504,
+      "end": 70767,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780623983",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:70767"
+    },
+    "n1": {
+      "identity": 70767,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker highlights the importance of integrating emission reduction and biodiversity preservation into environmental policy, underscoring a holistic approach to water management.",
+        "name": "Professor in the School of Architecture, Planning and Environmental Policy",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:70767"
+    },
+    "r2": {
+      "identity": 6918062290780623983,
+      "start": 96504,
+      "end": 70767,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780623983",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:70767"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780664437,
+      "start": 96504,
+      "end": 111221,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664437",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111221"
+    },
+    "n1": {
+      "identity": 111221,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The speakers highlight the significance of managing water quality through targeted, catchment-level strategies and localized data. They recognize the role of urine patches in nitrate loss and stress the need for effective slurry application management and additional storage to address these issues, while also noting the delayed impact of such measures on water quality improvement.",
+        "name": "Director of Research in the UCD School of Agriculture and Food Science",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111221"
+    },
+    "r2": {
+      "identity": 6918062290780664437,
+      "start": 96504,
+      "end": 111221,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664437",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111221"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780664438,
+      "start": 96504,
+      "end": 111222,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664438",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111222"
+    },
+    "n1": {
+      "identity": 111222,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively support the notion that increased cow numbers do not adversely affect water quality, attributing this to effective management practices. They also express optimism that current measures will lead to improved water quality over time, while highlighting the importance of regulatory certainty to guide farmers in enhancing nitrogen efficiency.",
+        "name": "Director of Research in the UCD School of Agriculture and Food Science",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111222"
+    },
+    "r2": {
+      "identity": 6918062290780664438,
+      "start": 96504,
+      "end": 111222,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664438",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111222"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780664439,
+      "start": 96504,
+      "end": 111223,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664439",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111223"
+    },
+    "n1": {
+      "identity": 111223,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker highlights that water quality is a significant concern impacting the broader agrifood industry, extending beyond just dairy farming. Additionally, they recognize the economic difficulties associated with complying with nitrates directives, indicating a nuanced understanding of the challenges faced in the sector.",
+        "name": "Director of Research in the UCD School of Agriculture and Food Science",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111223"
+    },
+    "r2": {
+      "identity": 6918062290780664439,
+      "start": 96504,
+      "end": 111223,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664439",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111223"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780664440,
+      "start": 96504,
+      "end": 111224,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664440",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111224"
+    },
+    "n1": {
+      "identity": 111224,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively support the topic by highlighting the significance of managing water quality through localized data and community engagement. They note that increased cattle numbers have not adversely affected water quality, attributing this to effective management practices. Additionally, they stress the necessity for enhanced support and advisory services for farmers to further improve local water quality.",
+        "name": "Director of Research in the UCD School of Agriculture and Food Science",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111224"
+    },
+    "r2": {
+      "identity": 6918062290780664440,
+      "start": 96504,
+      "end": 111224,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664440",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111224"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780664441,
+      "start": 96504,
+      "end": 111225,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664441",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111225"
+    },
+    "n1": {
+      "identity": 111225,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The speakers collectively recognize water quality as a crucial issue impacting the entire agrifood industry, with a particular focus on its relevance beyond just dairy farming. They highlight the significant influence of agricultural practices, soil types, and weather on water quality, while also acknowledging the economic challenges posed by nitrate directives and the need for effective management practices to address nitrogen surplus. Despite the shared neutral sentiment, there is a consistent emphasis on the complexity of the relationship between agriculture and water quality.",
+        "name": "Director of Research in the UCD School of Agriculture and Food Science",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111225"
+    },
+    "r2": {
+      "identity": 6918062290780664441,
+      "start": 96504,
+      "end": 111225,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664441",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111225"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918062290780664442,
+      "start": 96504,
+      "end": 111226,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664442",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111226"
+    },
+    "n1": {
+      "identity": 111226,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The speakers collectively support the importance of managing water quality through localized data, community involvement, and targeted measures at the catchment level. They highlight the necessity for regulatory certainty and enhanced advisory support for farmers to adopt improved practices that minimize agricultural impacts on water quality. While there is a consensus on the effectiveness of management practices, some speakers acknowledge ongoing challenges and the time lag in observing the results of implemented measures.",
+        "name": "Director of Research in the UCD School of Agriculture and Food Science",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111226"
+    },
+    "r2": {
+      "identity": 6918062290780664442,
+      "start": 96504,
+      "end": 111226,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664442",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111226"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6920317389129124033,
+      "start": 96504,
+      "end": 2241,
+      "type": "UG_LABEL_HAS_ACTION_FW",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920317389129124033",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "n1": {
+      "identity": 2241,
+      "labels": [
+        "UG_FW_ACTIONS"
+      ],
+      "properties": {
+        "shortrecommendation": "Education Programmes",
+        "shortaction": "Increase enrolment in dairy programmes",
+        "name": "Increase enrolments in Level 6 Advanced Dairy Programme and Professional Diploma in Dairy Farm Management and seek to fast track entry to the latter in association with UCD.",
+        "topic": "live",
+        "recommendation": "Education Programmes",
+        "source": "Food Wise"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "r2": {
+      "identity": 6918065589315438785,
+      "start": 96458,
+      "end": 2241,
+      "type": "UG_LABEL_HAS_ACTION_FW",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918065589315438785",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96458",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "n2": {
+      "identity": 96458,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research And Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96458"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6920317389129124033,
+      "start": 96504,
+      "end": 2241,
+      "type": "UG_LABEL_HAS_ACTION_FW",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920317389129124033",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "n1": {
+      "identity": 2241,
+      "labels": [
+        "UG_FW_ACTIONS"
+      ],
+      "properties": {
+        "shortrecommendation": "Education Programmes",
+        "shortaction": "Increase enrolment in dairy programmes",
+        "name": "Increase enrolments in Level 6 Advanced Dairy Programme and Professional Diploma in Dairy Farm Management and seek to fast track entry to the latter in association with UCD.",
+        "topic": "live",
+        "recommendation": "Education Programmes",
+        "source": "Food Wise"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "r2": {
+      "identity": 6920317389129124033,
+      "start": 96504,
+      "end": 2241,
+      "type": "UG_LABEL_HAS_ACTION_FW",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920317389129124033",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2241"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760676,
+      "start": 96504,
+      "end": 68580,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760676",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68580"
+    },
+    "n1": {
+      "identity": 68580,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector",
+        "goal": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality",
+        "name": "Agricultural Innovation Mission for Climate (AIM4C) Summit",
+        "topic": "carbon",
+        "action": "MISSION 1 GOAL 1 ACTION 5",
+        "actionstatement": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate-related research and funding initiatives."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68580"
+    },
+    "r2": {
+      "identity": 6918067788338760676,
+      "start": 96504,
+      "end": 68580,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760676",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68580"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760677,
+      "start": 96504,
+      "end": 68581,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760677",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68581"
+    },
+    "n1": {
+      "identity": 68581,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector",
+        "goal": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality",
+        "name": "National ‘Agriculture and Climate Change: Science in Action’ Conference",
+        "topic": "carbon",
+        "action": "MISSION 1 GOAL 1 ACTION 5",
+        "actionstatement": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate-related research and funding initiatives."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68581"
+    },
+    "r2": {
+      "identity": 6918067788338760677,
+      "start": 96504,
+      "end": 68581,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760677",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68581"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760678,
+      "start": 96504,
+      "end": 68582,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760678",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68582"
+    },
+    "n1": {
+      "identity": 68582,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector",
+        "goal": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality",
+        "name": "Ireland – New Zealand Joint Research Initiative",
+        "topic": "carbon",
+        "action": "MISSION 1 GOAL 1 ACTION 5",
+        "actionstatement": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate-related research and funding initiatives."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68582"
+    },
+    "r2": {
+      "identity": 6918067788338760678,
+      "start": 96504,
+      "end": 68582,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760678",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68582"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6920319588152445942,
+      "start": 96504,
+      "end": 68598,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152445942",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68598"
+    },
+    "n1": {
+      "identity": 68598,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector",
+        "goal": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality",
+        "name": "Agricultural Innovation Mission for Climate (AIM4C) Summit",
+        "topic": "carbon",
+        "action": "MISSION 1 GOAL 1 ACTION 5",
+        "actionstatement": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68598"
+    },
+    "r2": {
+      "identity": 6918067788338760694,
+      "start": 96058,
+      "end": 68598,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760694",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68598"
+    },
+    "n2": {
+      "identity": 96058,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 050",
+        "stakeholder": "Irish Cattle Breeding Federation",
+        "norm": "researchandregulatory050"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6920319588152445942,
+      "start": 96504,
+      "end": 68598,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152445942",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68598"
+    },
+    "n1": {
+      "identity": 68598,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector",
+        "goal": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality",
+        "name": "Agricultural Innovation Mission for Climate (AIM4C) Summit",
+        "topic": "carbon",
+        "action": "MISSION 1 GOAL 1 ACTION 5",
+        "actionstatement": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68598"
+    },
+    "r2": {
+      "identity": 6920319588152445942,
+      "start": 96504,
+      "end": 68598,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152445942",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68598"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6920319588152445943,
+      "start": 96504,
+      "end": 68599,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152445943",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68599"
+    },
+    "n1": {
+      "identity": 68599,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector",
+        "goal": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality",
+        "name": "National ‘Agriculture and Climate Change: Science in Action’ Conference",
+        "topic": "carbon",
+        "action": "MISSION 1 GOAL 1 ACTION 5",
+        "actionstatement": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68599"
+    },
+    "r2": {
+      "identity": 6918067788338760695,
+      "start": 96058,
+      "end": 68599,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760695",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68599"
+    },
+    "n2": {
+      "identity": 96058,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 050",
+        "stakeholder": "Irish Cattle Breeding Federation",
+        "norm": "researchandregulatory050"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6920319588152445943,
+      "start": 96504,
+      "end": 68599,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152445943",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68599"
+    },
+    "n1": {
+      "identity": 68599,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector",
+        "goal": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality",
+        "name": "National ‘Agriculture and Climate Change: Science in Action’ Conference",
+        "topic": "carbon",
+        "action": "MISSION 1 GOAL 1 ACTION 5",
+        "actionstatement": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68599"
+    },
+    "r2": {
+      "identity": 6920319588152445943,
+      "start": 96504,
+      "end": 68599,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152445943",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68599"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6920319588152445944,
+      "start": 96504,
+      "end": 68600,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152445944",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68600"
+    },
+    "n1": {
+      "identity": 68600,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector",
+        "goal": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality",
+        "name": "Ireland – New Zealand Joint Research Initiative",
+        "topic": "carbon",
+        "action": "MISSION 1 GOAL 1 ACTION 5",
+        "actionstatement": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68600"
+    },
+    "r2": {
+      "identity": 6918067788338760696,
+      "start": 96058,
+      "end": 68600,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760696",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68600"
+    },
+    "n2": {
+      "identity": 96058,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 050",
+        "stakeholder": "Irish Cattle Breeding Federation",
+        "norm": "researchandregulatory050"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6920319588152445944,
+      "start": 96504,
+      "end": 68600,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152445944",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68600"
+    },
+    "n1": {
+      "identity": 68600,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "A Climate Smart,  Environmentally  Sustainable   Agri-Food Sector",
+        "goal": "Develop a Climate Neutral Agri- Food System so that by 2050, the Climate Impact of Methane is Reduced to Zero and Remaining Agricultural Emissions are Balanced by Removals; and Improve Air Quality",
+        "name": "Ireland – New Zealand Joint Research Initiative",
+        "topic": "carbon",
+        "action": "MISSION 1 GOAL 1 ACTION 5",
+        "actionstatement": "Ireland will play a leading role in  shaping how greenhouse gas emissions  from livestock farming are understood  and addressed.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68600"
+    },
+    "r2": {
+      "identity": 6920319588152445944,
+      "start": 96504,
+      "end": 68600,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152445944",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68600"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760942,
+      "start": 96504,
+      "end": 68846,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760942",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68846"
+    },
+    "n1": {
+      "identity": 68846,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "Agricultural Innovation Mission for Climate (AIM4C) Summit",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68846"
+    },
+    "r2": {
+      "identity": 6920319588152446190,
+      "start": 96058,
+      "end": 68846,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152446190",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68846"
+    },
+    "n2": {
+      "identity": 96058,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 050",
+        "stakeholder": "Irish Cattle Breeding Federation",
+        "norm": "researchandregulatory050"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760942,
+      "start": 96504,
+      "end": 68846,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760942",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68846"
+    },
+    "n1": {
+      "identity": 68846,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "Agricultural Innovation Mission for Climate (AIM4C) Summit",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68846"
+    },
+    "r2": {
+      "identity": 6918067788338760942,
+      "start": 96504,
+      "end": 68846,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760942",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68846"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760943,
+      "start": 96504,
+      "end": 68847,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760943",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68847"
+    },
+    "n1": {
+      "identity": 68847,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "National ‘Agriculture and Climate Change: Science in Action’ Conference",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68847"
+    },
+    "r2": {
+      "identity": 6920319588152446191,
+      "start": 96058,
+      "end": 68847,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152446191",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68847"
+    },
+    "n2": {
+      "identity": 96058,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 050",
+        "stakeholder": "Irish Cattle Breeding Federation",
+        "norm": "researchandregulatory050"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760943,
+      "start": 96504,
+      "end": 68847,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760943",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68847"
+    },
+    "n1": {
+      "identity": 68847,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "National ‘Agriculture and Climate Change: Science in Action’ Conference",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68847"
+    },
+    "r2": {
+      "identity": 6918067788338760943,
+      "start": 96504,
+      "end": 68847,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760943",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68847"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760944,
+      "start": 96504,
+      "end": 68848,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760944",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68848"
+    },
+    "n1": {
+      "identity": 68848,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "Ireland – New Zealand Joint Research Initiative",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68848"
+    },
+    "r2": {
+      "identity": 6920319588152446192,
+      "start": 96058,
+      "end": 68848,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152446192",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68848"
+    },
+    "n2": {
+      "identity": 96058,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 050",
+        "stakeholder": "Irish Cattle Breeding Federation",
+        "norm": "researchandregulatory050"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96058"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760944,
+      "start": 96504,
+      "end": 68848,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760944",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68848"
+    },
+    "n1": {
+      "identity": 68848,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "Ireland – New Zealand Joint Research Initiative",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research projects under the Ireland – New Zealand Joint Research Initiative."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68848"
+    },
+    "r2": {
+      "identity": 6918067788338760944,
+      "start": 96504,
+      "end": 68848,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760944",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68848"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760969,
+      "start": 96504,
+      "end": 68873,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760969",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68873"
+    },
+    "n1": {
+      "identity": 68873,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "Agricultural Innovation Mission for Climate (AIM4C) Summit",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research initiatives."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68873"
+    },
+    "r2": {
+      "identity": 6918067788338760969,
+      "start": 96504,
+      "end": 68873,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760969",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68873"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760970,
+      "start": 96504,
+      "end": 68874,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760970",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68874"
+    },
+    "n1": {
+      "identity": 68874,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "National ‘Agriculture and Climate Change: Science in Action’ Conference",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research initiatives."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68874"
+    },
+    "r2": {
+      "identity": 6918067788338760970,
+      "start": 96504,
+      "end": 68874,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760970",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68874"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760971,
+      "start": 96504,
+      "end": 68875,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760971",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68875"
+    },
+    "n1": {
+      "identity": 68875,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "Ireland – New Zealand Joint Research Initiative",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate and agriculture research initiatives."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68875"
+    },
+    "r2": {
+      "identity": 6918067788338760971,
+      "start": 96504,
+      "end": 68875,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760971",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68875"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760996,
+      "start": 96504,
+      "end": 68900,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760996",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68900"
+    },
+    "n1": {
+      "identity": 68900,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "Agricultural Innovation Mission for Climate (AIM4C) Summit",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate-related research and funding initiatives."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68900"
+    },
+    "r2": {
+      "identity": 6918067788338760996,
+      "start": 96504,
+      "end": 68900,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760996",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68900"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760997,
+      "start": 96504,
+      "end": 68901,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760997",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68901"
+    },
+    "n1": {
+      "identity": 68901,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "National ‘Agriculture and Climate Change: Science in Action’ Conference",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate-related research and funding initiatives."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68901"
+    },
+    "r2": {
+      "identity": 6918067788338760997,
+      "start": 96504,
+      "end": 68901,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760997",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68901"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  },
+  {
+    "l": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    },
+    "r1": {
+      "identity": 6918067788338760998,
+      "start": 96504,
+      "end": 68902,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760998",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68902"
+    },
+    "n1": {
+      "identity": 68902,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "A Strategic Funding Approach for Research, Development and Innovation",
+        "name": "Ireland – New Zealand Joint Research Initiative",
+        "topic": "live",
+        "action": "MISSION 4 GOAL 2 ACTION 1",
+        "actionstatement": "Maintain publicly-funded research in  agri-food at an appropriate funding  level.",
+        "source": "Food Vision Report",
+        "reportsummary": "Actively involved in climate-related research and funding initiatives."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68902"
+    },
+    "r2": {
+      "identity": 6918067788338760998,
+      "start": 96504,
+      "end": 68902,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760998",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68902"
+    },
+    "n2": {
+      "identity": 96504,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 092",
+        "stakeholder": "University College Dublin",
+        "norm": "researchandregulatory092"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96504"
+    }
+  }
+]

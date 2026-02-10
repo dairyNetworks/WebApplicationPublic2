@@ -1,0 +1,667 @@
+﻿[
+  {
+    "n": {
+      "identity": 91639,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to finalise a sectoral plan for agriculture and forestry to inform the National Mitigation Plan under the National Climate Action and Low_x0002_Carbon Development Bill.",
+        "shortAction": "Finalise agriculture mitigation sectoral plan"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91639"
+    },
+    "r": {
+      "identity": 1153417384351065591,
+      "start": 91639,
+      "end": 91650,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065591",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91639",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91650"
+    },
+    "m": {
+      "identity": 91650,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91650"
+    }
+  },
+  {
+    "n": {
+      "identity": 91640,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to continue active participation in multi-stakeholder ‘Global Alliance for Climate Smart Agriculture’ which is promoting the application of climate smart approaches to agriculture production systems.",
+        "shortAction": "Continue participation in global alliance"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91640"
+    },
+    "r": {
+      "identity": 1153417384351065592,
+      "start": 91640,
+      "end": 91650,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065592",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91640",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91650"
+    },
+    "m": {
+      "identity": 91650,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91650"
+    }
+  },
+  {
+    "n": {
+      "identity": 91640,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to continue active participation in multi-stakeholder ‘Global Alliance for Climate Smart Agriculture’ which is promoting the application of climate smart approaches to agriculture production systems.",
+        "shortAction": "Continue participation in global alliance"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91640"
+    },
+    "r": {
+      "identity": 1155669184164750840,
+      "start": 91640,
+      "end": 91651,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1155669184164750840",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91640",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91651"
+    },
+    "m": {
+      "identity": 91651,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 041"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91651"
+    }
+  },
+  {
+    "n": {
+      "identity": 91641,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to continue to work closely with DCENR, as part of National Bioenergy Plan discussions, to assess supply side issues related to the potential of bioenergy from the agriculture and forestry sectors and develop farm-scale renewables. DAFM will continue to support afforestation and mobilisation measures under the Forestry Programme 2014-2020 and encourage the innovative use of animal by-products (ABP) for energy production",
+        "shortAction": "Assess bioenergy potential and support"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91641"
+    },
+    "r": {
+      "identity": 1153417384351065593,
+      "start": 91641,
+      "end": 91650,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065593",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91641",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91650"
+    },
+    "m": {
+      "identity": 91650,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91650"
+    }
+  },
+  {
+    "n": {
+      "identity": 91641,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to continue to work closely with DCENR, as part of National Bioenergy Plan discussions, to assess supply side issues related to the potential of bioenergy from the agriculture and forestry sectors and develop farm-scale renewables. DAFM will continue to support afforestation and mobilisation measures under the Forestry Programme 2014-2020 and encourage the innovative use of animal by-products (ABP) for energy production",
+        "shortAction": "Assess bioenergy potential and support"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91641"
+    },
+    "r": {
+      "identity": 1155669184164750841,
+      "start": 91641,
+      "end": 91652,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1155669184164750841",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91641",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91652"
+    },
+    "m": {
+      "identity": 91652,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Communications, Energy and Natural Resources 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91652"
+    }
+  },
+  {
+    "n": {
+      "identity": 91641,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to continue to work closely with DCENR, as part of National Bioenergy Plan discussions, to assess supply side issues related to the potential of bioenergy from the agriculture and forestry sectors and develop farm-scale renewables. DAFM will continue to support afforestation and mobilisation measures under the Forestry Programme 2014-2020 and encourage the innovative use of animal by-products (ABP) for energy production",
+        "shortAction": "Assess bioenergy potential and support"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91641"
+    },
+    "r": {
+      "identity": 1157920983978436089,
+      "start": 91641,
+      "end": 91653,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157920983978436089",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91641",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91653"
+    },
+    "m": {
+      "identity": 91653,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-State Agency 006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91653"
+    }
+  },
+  {
+    "n": {
+      "identity": 91642,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM in conjunction with other agencies should maximise their use of scientific expertise to actively engage in international networks and research groups to find new ways to account for and reduce emissions.",
+        "shortAction": "Engage internationally to reduce emissions"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91642"
+    },
+    "r": {
+      "identity": 1153417384351065594,
+      "start": 91642,
+      "end": 91650,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065594",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91642",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91650"
+    },
+    "m": {
+      "identity": 91650,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91650"
+    }
+  },
+  {
+    "n": {
+      "identity": 91643,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Continued updating on an annual basis of Teagasc National Farm Survey sustainability indicators, including further development of a wider spectrum of appropriate indicators and activity data to more accurately measure environmental sustainability and contribute to development and enhancement of GHG and ammonia inventories.",
+        "shortAction": "Update sustainability indicators annually"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91643"
+    },
+    "r": {
+      "identity": 1153417384351065595,
+      "start": 91643,
+      "end": 91654,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065595",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91643",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91654"
+    },
+    "m": {
+      "identity": 91654,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-state agency 012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91654"
+    }
+  },
+  {
+    "n": {
+      "identity": 91644,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Update Teagasc’s Marginal Abatement Cost Curve for Irish agriculture on a more frequent basis to ensure the latest technological developments help inform an assessment of a wider range of GHG mitigation measures that could be rolled out at farm level",
+        "shortAction": "Update agriculture cost curve frequently"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91644"
+    },
+    "r": {
+      "identity": 1153417384351065596,
+      "start": 91644,
+      "end": 91654,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065596",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91644",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91654"
+    },
+    "m": {
+      "identity": 91654,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-state agency 012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91654"
+    }
+  },
+  {
+    "n": {
+      "identity": 91645,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Continue to enhance and roll out at farm level the Carbon Navigator Initiative which provides online software to assist farmers in understanding how their farms produce GHG emissions, identify mitigation capacity and to set targets and a pathway to reduce emissions. Teagasc in conjunction with other stakeholders to examine whether the navigator tool could be used to measure other important environmental parameters such as biodiversity",
+        "shortAction": "Enhance and expand Carbon Navigator"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91645"
+    },
+    "r": {
+      "identity": 1153417384351065597,
+      "start": 91645,
+      "end": 91654,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065597",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91645",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91654"
+    },
+    "m": {
+      "identity": 91654,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-state agency 012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91654"
+    }
+  },
+  {
+    "n": {
+      "identity": 91646,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "As part of the Europe 2020 strategy, BIM will introduce schemes in compliance with the EMFF to support investments in equipment or in fishing or aquaculture vessels aimed at reducing the emission of pollutants or GHG and/or increasing energy efficiency. This may include support for the modernisation and replacement of fleet engines.",
+        "shortAction": "Introduce schemes for vessel efficiency"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91646"
+    },
+    "r": {
+      "identity": 1153417384351065598,
+      "start": 91646,
+      "end": 91655,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065598",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91646",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91655"
+    },
+    "m": {
+      "identity": 91655,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-State Agency 002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91655"
+    }
+  },
+  {
+    "n": {
+      "identity": 91647,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Uptake of GLAS should be maximised to help enhance the natural environment through, inter alia, retaining carbon stocks in the soil, margins/habitat preservation and improving water quality to ensure compliance with the Water Framework Directive. Uptake on other RDP initiatives such as, organic farming, priority freshwater pearl mussel catchment sites and the Burren farming for conservation project should also be maximised as separate key RDP enabling instruments to achieve environmental objectives.",
+        "shortAction": "Maximise uptake of green schemes"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91647"
+    },
+    "r": {
+      "identity": 1153417384351065599,
+      "start": 91647,
+      "end": 91656,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065599",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91647",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91656"
+    },
+    "m": {
+      "identity": 91656,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 005"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91656"
+    }
+  },
+  {
+    "n": {
+      "identity": 91647,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Uptake of GLAS should be maximised to help enhance the natural environment through, inter alia, retaining carbon stocks in the soil, margins/habitat preservation and improving water quality to ensure compliance with the Water Framework Directive. Uptake on other RDP initiatives such as, organic farming, priority freshwater pearl mussel catchment sites and the Burren farming for conservation project should also be maximised as separate key RDP enabling instruments to achieve environmental objectives.",
+        "shortAction": "Maximise uptake of green schemes"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91647"
+    },
+    "r": {
+      "identity": 1155669184164750847,
+      "start": 91647,
+      "end": 91657,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1155669184164750847",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91647",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91657"
+    },
+    "m": {
+      "identity": 91657,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Rural and Community Development 002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91657"
+    }
+  },
+  {
+    "n": {
+      "identity": 91648,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Leverage the benefits of the recent adoption of genomics technology in the beef sector to improve the genetic quality of the national breeding herd though inter alia, maximising participation in the Beef Data and Genomics Programme, to help lower emissions and improve farm competiveness",
+        "shortAction": "Leverage genomics to improve herd"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91648"
+    },
+    "r": {
+      "identity": 1153417384351065600,
+      "start": 91648,
+      "end": 91658,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065600",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91648",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91658"
+    },
+    "m": {
+      "identity": 91658,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 016"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91658"
+    }
+  },
+  {
+    "n": {
+      "identity": 91649,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Develop strong reputation for quality and environmental sustainability of Irish beef with customers, competent authorities in target markets and NGOs building on the Sustainable Beef and Lamb Assurance Scheme (Origin Green) and optimise the use of this brand reputation in the market place",
+        "shortAction": "Promote sustainable Irish beef brand"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91649"
+    },
+    "r": {
+      "identity": 1153417384351065601,
+      "start": 91649,
+      "end": 91659,
+      "type": "CARBON_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153417384351065601",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91649",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91659"
+    },
+    "m": {
+      "identity": 91659,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 008"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91659"
+    }
+  },
+  {
+    "n": {
+      "identity": 91650,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91650"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91651,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 041"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91651"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91652,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Communications, Energy and Natural Resources 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91652"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91653,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-State Agency 006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91653"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91654,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-state agency 012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91654"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91655,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-State Agency 002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91655"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91656,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 005"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91656"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91657,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Rural and Community Development 002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91657"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91658,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 016"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91658"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91659,
+      "labels": [
+        "CARBON_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 008"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91659"
+    },
+    "r": null,
+    "m": null
+  }
+]

@@ -1,0 +1,332 @@
+﻿[
+  {
+    "l": {
+      "identity": 94146,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 015",
+        "stakeholder": "Grassland AGRO",
+        "norm": "inputs015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146"
+    },
+    "r1": {
+      "identity": 6918062290780664509,
+      "start": 94146,
+      "end": 111293,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664509",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111293"
+    },
+    "n1": {
+      "identity": 111293,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker recognizes that nitrates, particularly from animal deposits, play a notable role in contributing to the nitrogen surplus on farms, highlighting a shared understanding of the issue without expressing a definitive stance on its implications.",
+        "name": "Group Managing Director",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111293"
+    },
+    "r2": {
+      "identity": 6918062290780664509,
+      "start": 94146,
+      "end": 111293,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664509",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111293"
+    },
+    "n2": {
+      "identity": 94146,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 015",
+        "stakeholder": "Grassland AGRO",
+        "norm": "inputs015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146"
+    }
+  },
+  {
+    "l": {
+      "identity": 94146,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 015",
+        "stakeholder": "Grassland AGRO",
+        "norm": "inputs015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146"
+    },
+    "r1": {
+      "identity": 6918062290780664510,
+      "start": 94146,
+      "end": 111294,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664510",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111294"
+    },
+    "n1": {
+      "identity": 111294,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker highlights the necessity of recognizing individual responsibilities in tackling national water quality challenges, reflecting a neutral stance on the topic.",
+        "name": "Group Managing Director",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111294"
+    },
+    "r2": {
+      "identity": 6918062290780664510,
+      "start": 94146,
+      "end": 111294,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664510",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111294"
+    },
+    "n2": {
+      "identity": 94146,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 015",
+        "stakeholder": "Grassland AGRO",
+        "norm": "inputs015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146"
+    }
+  },
+  {
+    "l": {
+      "identity": 94146,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 015",
+        "stakeholder": "Grassland AGRO",
+        "norm": "inputs015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146"
+    },
+    "r1": {
+      "identity": 6918062290780664511,
+      "start": 94146,
+      "end": 111295,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664511",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111295"
+    },
+    "n1": {
+      "identity": 111295,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively support the integration of water quality initiatives into agricultural practices, highlighting the need for collaboration among farmers and the provision of relevant data and solutions. They stress the importance of maintaining high water quality and improving lower quality waters, while also recognizing the significance of understanding individual contributions to national water quality challenges.",
+        "name": "Group Managing Director",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111295"
+    },
+    "r2": {
+      "identity": 6918062290780664511,
+      "start": 94146,
+      "end": 111295,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664511",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111295"
+    },
+    "n2": {
+      "identity": 94146,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 015",
+        "stakeholder": "Grassland AGRO",
+        "norm": "inputs015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146"
+    }
+  },
+  {
+    "l": {
+      "identity": 94146,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 015",
+        "stakeholder": "Grassland AGRO",
+        "norm": "inputs015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146"
+    },
+    "r1": {
+      "identity": 6918062290780664512,
+      "start": 94146,
+      "end": 111296,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664512",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111296"
+    },
+    "n1": {
+      "identity": 111296,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speakers recognize the role of nitrates in contributing to nitrogen surplus from multiple sources, including animal deposits, while also highlighting the importance of understanding individual responsibilities in tackling national water quality issues. Additionally, they note the variability of water transport mechanisms and their influence on nutrient behavior, indicating a complex relationship with water management.",
+        "name": "Group Managing Director",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111296"
+    },
+    "r2": {
+      "identity": 6918062290780664512,
+      "start": 94146,
+      "end": 111296,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664512",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111296"
+    },
+    "n2": {
+      "identity": 94146,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 015",
+        "stakeholder": "Grassland AGRO",
+        "norm": "inputs015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146"
+    }
+  },
+  {
+    "l": {
+      "identity": 94146,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 015",
+        "stakeholder": "Grassland AGRO",
+        "norm": "inputs015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146"
+    },
+    "r1": {
+      "identity": 6918062290780664513,
+      "start": 94146,
+      "end": 111297,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664513",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111297"
+    },
+    "n1": {
+      "identity": 111297,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively highlight the critical need for maintaining high water quality and enhancing lower quality waters through collaborative efforts among farmers. They stress the significance of understanding individual contributions to water quality issues and advocate for integrating water quality initiatives into agricultural practices, supported by relevant data and resources.",
+        "name": "Group Managing Director",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111297"
+    },
+    "r2": {
+      "identity": 6918062290780664513,
+      "start": 94146,
+      "end": 111297,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664513",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111297"
+    },
+    "n2": {
+      "identity": 94146,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 015",
+        "stakeholder": "Grassland AGRO",
+        "norm": "inputs015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94146"
+    }
+  }
+]

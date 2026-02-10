@@ -1,0 +1,746 @@
+﻿[
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 6918062290780647409,
+      "start": 2466,
+      "end": 94193,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647409",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94193"
+    },
+    "n1": {
+      "identity": 94193,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker highlights the significance of eliminating phosphorus sources as a crucial step in enhancing water quality, reflecting a neutral stance on the broader topic of carbon.",
+        "name": "Ruminant Technical Manager",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94193"
+    },
+    "r2": {
+      "identity": 6918062290780647409,
+      "start": 2466,
+      "end": 94193,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647409",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94193"
+    },
+    "n2": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    }
+  },
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 6918062290780647419,
+      "start": 2466,
+      "end": 94203,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647419",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94203"
+    },
+    "n1": {
+      "identity": 94203,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively support enhancing nitrogen use efficiency in farming, advocating for an increase from 20% to 35%. They also endorse initiatives focused on reducing nitrogen surplus to address related environmental risks, highlighting a unified commitment to sustainable practices.",
+        "name": "Ruminant Technical Manager",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94203"
+    },
+    "r2": {
+      "identity": 6918062290780647419,
+      "start": 2466,
+      "end": 94203,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647419",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94203"
+    },
+    "n2": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    }
+  },
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 6918062290780647423,
+      "start": 2466,
+      "end": 94207,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647423",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94207"
+    },
+    "n1": {
+      "identity": 94207,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively support the need for improved water quality management, highlighting the importance of monitoring water quality data and removing phosphorus sources for quick improvements. They also emphasize that enhancing nitrogen levels requires broader participation and behavioral changes among farmers, alongside targeted funding and measures to address agriculture's impact on water quality.",
+        "name": "Ruminant Technical Manager",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94207"
+    },
+    "r2": {
+      "identity": 6918062290780647423,
+      "start": 2466,
+      "end": 94207,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647423",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94207"
+    },
+    "n2": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    }
+  },
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 6918062290780647424,
+      "start": 2466,
+      "end": 94208,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647424",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94208"
+    },
+    "n1": {
+      "identity": 94208,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speakers highlight the significance of monitoring water quality data to comprehend its declines, with one noting that while phosphorus removal can lead to quick improvements, nitrogen enhancements require broader participation and a longer timeframe.",
+        "name": "Ruminant Technical Manager",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94208"
+    },
+    "r2": {
+      "identity": 6918062290780647424,
+      "start": 2466,
+      "end": 94208,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647424",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94208"
+    },
+    "n2": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    }
+  },
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 6918062290780647428,
+      "start": 2466,
+      "end": 94212,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647428",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94212"
+    },
+    "n1": {
+      "identity": 94212,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively highlight the critical role of water quality data and monitoring in addressing declines in water quality, with a particular focus on the urgent need to remove phosphorus sources for immediate improvements. They also note that while phosphorus removal can yield quick results, nitrogen improvements require broader participation and a longer timeframe.",
+        "name": "Ruminant Technical Manager",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94212"
+    },
+    "r2": {
+      "identity": 6918062290780647428,
+      "start": 2466,
+      "end": 94212,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647428",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94212"
+    },
+    "n2": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    }
+  },
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 1153459165792831906,
+      "start": 2466,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153459165792831906",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n1": {
+      "identity": 68109,
+      "labels": [
+        "UG_FVA_ACTION"
+      ],
+      "properties": {
+        "missionstatement": "MONITORING AND IMPLEMENTATION FRAMEWORK",
+        "mission": "MISSION 0",
+        "goal": "MISSION 0 GOAL 0",
+        "goalstatement": "Working In Partnership",
+        "name": "MISSION 0 GOAL 0 ACTION 6",
+        "topic": "live",
+        "actionstatement": "DAFM should lead a multi-stakeholder  project, facilitated by ‘EIT Climate  KIC’ on a “Deep Demonstration”  activity, to develop a coordinated  set of innovation actions focusing on  aiding an environment and climate-led  transition to a climate neutral agri- food sector.",
+        "source": "Food Vision Action"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "r2": {
+      "identity": 1182732563370740016,
+      "start": 2352,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1182732563370740016",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2352",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n2": {
+      "identity": 2352,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Producers",
+        "name": "Producers 032",
+        "stakeholder": "Primary Producers",
+        "norm": "producers032"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2352"
+    }
+  },
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 1153459165792831906,
+      "start": 2466,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153459165792831906",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n1": {
+      "identity": 68109,
+      "labels": [
+        "UG_FVA_ACTION"
+      ],
+      "properties": {
+        "missionstatement": "MONITORING AND IMPLEMENTATION FRAMEWORK",
+        "mission": "MISSION 0",
+        "goal": "MISSION 0 GOAL 0",
+        "goalstatement": "Working In Partnership",
+        "name": "MISSION 0 GOAL 0 ACTION 6",
+        "topic": "live",
+        "actionstatement": "DAFM should lead a multi-stakeholder  project, facilitated by ‘EIT Climate  KIC’ on a “Deep Demonstration”  activity, to develop a coordinated  set of innovation actions focusing on  aiding an environment and climate-led  transition to a climate neutral agri- food sector.",
+        "source": "Food Vision Action"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "r2": {
+      "identity": 1153459165792831906,
+      "start": 2466,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153459165792831906",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n2": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    }
+  },
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 1153459165792831906,
+      "start": 2466,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153459165792831906",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n1": {
+      "identity": 68109,
+      "labels": [
+        "UG_FVA_ACTION"
+      ],
+      "properties": {
+        "missionstatement": "MONITORING AND IMPLEMENTATION FRAMEWORK",
+        "mission": "MISSION 0",
+        "goal": "MISSION 0 GOAL 0",
+        "goalstatement": "Working In Partnership",
+        "name": "MISSION 0 GOAL 0 ACTION 6",
+        "topic": "live",
+        "actionstatement": "DAFM should lead a multi-stakeholder  project, facilitated by ‘EIT Climate  KIC’ on a “Deep Demonstration”  activity, to develop a coordinated  set of innovation actions focusing on  aiding an environment and climate-led  transition to a climate neutral agri- food sector.",
+        "source": "Food Vision Action"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "r2": {
+      "identity": 6920318488640817677,
+      "start": 2469,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920318488640817677",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2469",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n2": {
+      "identity": 2469,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "International organisation",
+        "name": "International organisation 003",
+        "stakeholder": "EU-funded Smart Agri Hubs",
+        "norm": "internationalorganisation003"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2469"
+    }
+  },
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 1153459165792831906,
+      "start": 2466,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153459165792831906",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n1": {
+      "identity": 68109,
+      "labels": [
+        "UG_FVA_ACTION"
+      ],
+      "properties": {
+        "missionstatement": "MONITORING AND IMPLEMENTATION FRAMEWORK",
+        "mission": "MISSION 0",
+        "goal": "MISSION 0 GOAL 0",
+        "goalstatement": "Working In Partnership",
+        "name": "MISSION 0 GOAL 0 ACTION 6",
+        "topic": "live",
+        "actionstatement": "DAFM should lead a multi-stakeholder  project, facilitated by ‘EIT Climate  KIC’ on a “Deep Demonstration”  activity, to develop a coordinated  set of innovation actions focusing on  aiding an environment and climate-led  transition to a climate neutral agri- food sector.",
+        "source": "Food Vision Action"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "r2": {
+      "identity": 6918066688827132429,
+      "start": 95758,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918066688827132429",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95758",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n2": {
+      "identity": 95758,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 012",
+        "stakeholder": "Teagasc The Agriculture and Food Development Authority",
+        "norm": "semistateagency012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95758"
+    }
+  },
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 1153459165792831906,
+      "start": 2466,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153459165792831906",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n1": {
+      "identity": 68109,
+      "labels": [
+        "UG_FVA_ACTION"
+      ],
+      "properties": {
+        "missionstatement": "MONITORING AND IMPLEMENTATION FRAMEWORK",
+        "mission": "MISSION 0",
+        "goal": "MISSION 0 GOAL 0",
+        "goalstatement": "Working In Partnership",
+        "name": "MISSION 0 GOAL 0 ACTION 6",
+        "topic": "live",
+        "actionstatement": "DAFM should lead a multi-stakeholder  project, facilitated by ‘EIT Climate  KIC’ on a “Deep Demonstration”  activity, to develop a coordinated  set of innovation actions focusing on  aiding an environment and climate-led  transition to a climate neutral agri- food sector.",
+        "source": "Food Vision Action"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "r2": {
+      "identity": 6924822088268188173,
+      "start": 96065,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6924822088268188173",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96065",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n2": {
+      "identity": 96065,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Trade Association",
+        "name": "Trade Association 011",
+        "stakeholder": "Irish Creamery Milk Suppliers Association",
+        "norm": "tradeassociation011"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96065"
+    }
+  },
+  {
+    "l": {
+      "identity": 2466,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Processors",
+        "name": "Processors 006",
+        "stakeholder": "Glanbia Ireland",
+        "norm": "processors006"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466"
+    },
+    "r1": {
+      "identity": 1153459165792831906,
+      "start": 2466,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153459165792831906",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2466",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n1": {
+      "identity": 68109,
+      "labels": [
+        "UG_FVA_ACTION"
+      ],
+      "properties": {
+        "missionstatement": "MONITORING AND IMPLEMENTATION FRAMEWORK",
+        "mission": "MISSION 0",
+        "goal": "MISSION 0 GOAL 0",
+        "goalstatement": "Working In Partnership",
+        "name": "MISSION 0 GOAL 0 ACTION 6",
+        "topic": "live",
+        "actionstatement": "DAFM should lead a multi-stakeholder  project, facilitated by ‘EIT Climate  KIC’ on a “Deep Demonstration”  activity, to develop a coordinated  set of innovation actions focusing on  aiding an environment and climate-led  transition to a climate neutral agri- food sector.",
+        "source": "Food Vision Action"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "r2": {
+      "identity": 6922570288454502925,
+      "start": 96074,
+      "end": 68109,
+      "type": "UG_LABEL_ACTION_FVA",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6922570288454502925",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96074",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68109"
+    },
+    "n2": {
+      "identity": 96074,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Producers",
+        "name": "Producers 008",
+        "stakeholder": "Farmers",
+        "norm": "producers008"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:96074"
+    }
+  }
+]

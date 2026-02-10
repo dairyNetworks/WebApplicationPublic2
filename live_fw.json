@@ -1,0 +1,177 @@
+﻿[
+  {
+    "n": {
+      "identity": 91697,
+      "labels": [
+        "LIVE_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Bord Bia to further develop the range and depth of sustainability information collected for beef, dairy and other primary agricultural sectors using its auditing infrastructure",
+        "shortAction": "Develop sustainability data collection system"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91697"
+    },
+    "r": {
+      "identity": 1153421782397576753,
+      "start": 91697,
+      "end": 91784,
+      "type": "LIVE_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153421782397576753",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91697",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91784"
+    },
+    "m": {
+      "identity": 91784,
+      "labels": [
+        "LIVE_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Trade Association 013"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91784"
+    }
+  },
+  {
+    "n": {
+      "identity": 91698,
+      "labels": [
+        "LIVE_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to work closely with all stakeholders to ensure that the scientific findings from the Agricultural Catchments Programme are integrated fully and appropriately into agri-environmental policies.",
+        "shortAction": "Integrate findings into policy framework"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91698"
+    },
+    "r": {
+      "identity": 1153421782397576754,
+      "start": 91698,
+      "end": 91785,
+      "type": "LIVE_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153421782397576754",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91698",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91785"
+    },
+    "m": {
+      "identity": 91785,
+      "labels": [
+        "LIVE_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91785"
+    }
+  },
+  {
+    "n": {
+      "identity": 91699,
+      "labels": [
+        "LIVE_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM, SFPA and Industry to develop a suite of measures to promote changed behaviour which will minimise juvenile catch and protect vulnerable stocks.",
+        "shortAction": "Develop measures to reduce bycatch"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91699"
+    },
+    "r": {
+      "identity": 1153421782397576755,
+      "start": 91699,
+      "end": 91785,
+      "type": "LIVE_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153421782397576755",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91699",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91785"
+    },
+    "m": {
+      "identity": 91785,
+      "labels": [
+        "LIVE_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91785"
+    }
+  },
+  {
+    "n": {
+      "identity": 91699,
+      "labels": [
+        "LIVE_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM, SFPA and Industry to develop a suite of measures to promote changed behaviour which will minimise juvenile catch and protect vulnerable stocks.",
+        "shortAction": "Develop measures to reduce bycatch"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91699"
+    },
+    "r": {
+      "identity": 1155673582211262003,
+      "start": 91699,
+      "end": 91786,
+      "type": "LIVE_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1155673582211262003",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91699",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91786"
+    },
+    "m": {
+      "identity": 91786,
+      "labels": [
+        "LIVE_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Research and Regulatory 074"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91786"
+    }
+  },
+  {
+    "n": {
+      "identity": 91700,
+      "labels": [
+        "LIVE_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Enterprise Ireland to invest in in-company innovation processes, R&D and NPD development programmes, and to support the human and capital infrastructure requirements of that absorptive capacity.",
+        "shortAction": "Invest in innovation and infrastructure"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91700"
+    },
+    "r": {
+      "identity": 1153421782397576756,
+      "start": 91700,
+      "end": 91787,
+      "type": "LIVE_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153421782397576756",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91700",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91787"
+    },
+    "m": {
+      "identity": 91787,
+      "labels": [
+        "LIVE_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Business, Employment and Retail 003"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91787"
+    }
+  }
+]
