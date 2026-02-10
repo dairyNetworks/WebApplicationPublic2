@@ -1,0 +1,551 @@
+/* General Styles */
+html {
+    height: 100vh;
+    overflow: hidden;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background: white;
+    perspective: 1px;
+    transform-style: preserve-3d;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    font-family: "Arial", Helvetica, sans-serif;
+    letter-spacing: 1px;
+    color: #333;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Section Styles */
+.section1, .section2 {
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    transform-style: preserve-3d;
+}
+
+.section1::before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: url("/static/images/landscape.jpg") top center;
+    background-size: cover;
+    transform: translateZ(-0.5px);
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+/* Uncomment and adjust if needed for additional background */
+/*
+.section1::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: url("/static/images/cowafter.png") top center;
+    background-size: cover;
+}
+*/
+
+.section1 .text {
+    top: 10%;
+    transform: translateZ(-0.5px) scale(1.5, 1.6) translate(-33%, 10%);
+}
+
+.section2 {
+    background: black;
+}
+
+/* Heading Styles */
+.heading {
+    top: 30%;
+    left: 50%;
+    position: absolute;
+    letter-spacing: 2px;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3),
+                 5px 5px 70px rgba(255, 255, 255, 0.5);
+    transform: translateX(-50%) scale(1, 1.1);
+    text-align: justify;
+}
+
+/* Paragraph Styles */
+.paragraph {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    letter-spacing: 2px;
+    font-size: 14px;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3),
+                 5px 5px 70px rgba(255, 255, 255, 0.5);
+    transform: translateX(-50%);
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+/* Button container */
+.buttons {
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    display: flex;
+    align-items: center;
+    gap: 40px; /* Increased spacing to avoid overlap */
+    z-index: 10;
+    flex-wrap: wrap; /* Allows wrapping on small screens */
+}
+/* Buttons (General and Positioned Styles) */
+.buttons {
+    position: absolute;
+    top: 20px;
+    right: 80px;
+    display: flex;
+    gap: 30px;
+    z-index: 10;
+}
+
+button, .btn {
+    letter-spacing: 2px;
+    font-size: 20px;
+    color: black;
+    background: none;
+    border: none;
+    padding: 8px 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+button:hover, .btn:hover {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+button:active, .btn:active {
+    color: #999999;
+}
+
+#documentSearch, #speakerSearch {
+    background-color: white;
+}
+
+.buttons button:hover {
+    background-color: black;
+    color: white;
+}
+
+/* Input Field Styles */
+input[type="text"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    align-items: center;
+}
+
+/* Styles specific to the search page */
+.search-page {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    background: url("/static/images/search.jpg") top center no-repeat;
+    background-size: cover; /* Ensures the image covers the entire viewport */
+    font-family: "Arial", Helvetica, sans-serif;
+    letter-spacing: 1px;
+    color: #333;
+}
+
+/* Container styles remain the same */
+.search-page .container {
+    text-align: center;
+    max-width: 500px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading in Container */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Additional Button Styles (for alignment) */
+.search-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Adds space between elements */
+}
+
+/* Home link styles */
+.home-link {
+    position: absolute;
+    top: 20px; /* Adjust for desired spacing */
+    left: 55px; /* Adjust for desired spacing */
+    z-index: 1000; /* Ensures it stays on top of other elements */
+    border-radius: 40px;
+}
+
+/* Home icon styles */
+.home-icon {
+    width: 150px; /* Adjust for desired size */
+    height: auto; /* Maintains aspect ratio */
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    border-radius: 10px;
+}
+
+.home-icon:hover {
+    transform: scale(1.5); /* Slightly enlarge on hover */
+}
+
+
+/* User guide link styles (top-right corner) */
+.guide-link {
+    position: absolute;
+    top: 6px; /* Match home icon top offset */
+    right: 50px; /* Mirror left spacing from home icon */
+    z-index: 1000;
+    border-radius: 40px;
+}
+
+/* Guide icon image styles */
+.guide-icon {
+    width: 40px; /* Match home icon size */
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    border-radius: 10px;
+}
+
+
+.login-link {
+    position: absolute;
+    top: 20px; /* Match home icon top offset */
+    right: 20px; /* Mirror left spacing from home icon */
+    z-index: 1000;
+    border-radius: 40px;
+}
+
+/* Guide icon image styles */
+.login-icon {
+    width: 50px; /* Match home icon size */
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    border-radius: 10px;
+}
+
+.result-container {
+    width: 180%; /* Wider container */
+    max-width: 1200px; /* Maximum width for larger screens */
+    margin: 50px auto; /* Centered on the page with vertical spacing */
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8); /* Light background with slight transparency */
+    backdrop-filter: blur(5px); /* Frosting effect */
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.result-container > h1 {
+    font-family: "Arial", Helvetica, sans-serif;
+    text-align: center; /* Centers the text horizontally */
+    font-size: 28px; /* Adjust font size as needed */
+    margin-bottom: 20px; /* Adds some space below the heading */
+    color: black; /* Optional: Adjust color to fit your design */
+}
+
+.networksection1 {
+    width: 100%;
+    height: 50vh;
+    margin-top: 150px;
+    position: relative;
+    background-color: black;
+    color: white;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headingnetwork1 {
+    top: 10%;
+    left: 50%;
+    position: absolute;
+    letter-spacing: 2px;
+    font-size: 20px;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3),
+                 5px 5px 70px rgba(255, 255, 255, 0.5);
+    transform: translateX(-50%) scale(1, 1.1);
+    text-align: justify;
+}
+
+/* Paragraph Styles */
+.paragraphnetwork2 {
+    top: 30%;
+    left: 50%;
+    position: absolute;
+    letter-spacing: 2px;
+    font-size: 13px;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3),
+                 5px 5px 70px rgba(255, 255, 255, 0.5);
+    transform: translateX(-50%);
+    line-height: 1.6;
+    text-align: justify;
+    margin-bottom: 30px;
+}
+
+.networksection2 {
+    width: 1500;
+    height: 900;
+    position: relative;
+    background-color: black;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonblack {
+    position: absolute;
+    top: 300px;
+    right: 80px;
+    display: flex;
+    gap: 7px;
+    z-index: 10;
+}
+
+.buttonblack, .btnblk {
+    letter-spacing: 2px;
+    font-size: 20px;
+    color: white;
+    background: none;
+    border: none;
+    padding: 8px 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.buttonblack:hover, .btnblk:hover {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+.buttonblack:active, .btnblk:active {
+    color: #999999;
+}
+
+#documentSearch, #speakerSearch {
+    background-color: white;
+}
+
+.buttonblack button:hover {
+    background-color: black;
+    color: white;
+}
+
+#table_data{
+    padding: 2.5rem;
+}
+
+.networkquerysection1 {
+    width: 100%;
+    height: 50vh;
+    margin-top: 80px;
+    position: relative;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+}
+
+form {
+    width: 100%; /* Makes the dropdown responsive */
+    width: 1000px; /* Restricts maximum width */
+    display: flex;
+    flex-direction: column; /* Stacks elements vertically */
+    gap: 20px; /* Adds space between elements */
+    align-items: center; /* Aligns items to the start */
+    padding: 10px; /* Adds padding around the form */
+    background-color: #f8f8f8; /* Optional: Light background for form */
+    border-radius: 10px; /* Adds rounded corners to the form container */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+select {
+    width: 100%; /* Makes the dropdown responsive */
+    /*max-width: 900px;  Restricts maximum width */
+    padding: 12px 15px; /* Adds inner spacing */
+    font-size: 16px; /* Increases font size */
+    font-family: Arial, sans-serif; /* Sets font family */
+    background-color: black; /* Sets background color */
+    color: white; /* Sets text color */
+    border: none; /* Removes border */
+    border-radius: 8px; /* Adds rounded corners */
+    outline: none; /* Removes the blue outline on focus */
+    appearance: none; /* Removes default arrow for custom styling */
+    cursor: pointer; /* Changes cursor to pointer on hover */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
+    justify-content: center;
+}
+
+label {
+    font-family: "Arial", Helvetica, sans-serif;
+    letter-spacing: 1px;
+    color: #333;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    width: 100%; /* Optional: Makes elements take full width */
+    max-width: 500px; 
+}
+
+select {
+    width: 100%; /* Makes the dropdown responsive */
+    /*max-width: 1000px;  Optional: Restricts the maximum width */
+    padding: 20px; /* Adds inner spacing */
+    font-size: 6px; /* Increases font size */
+    font-family: Arial, sans-serif; /* Sets font family */
+    background-color: black; /* Sets background color */
+    color: white; /* Sets text color */
+    border: none; /* Removes border */
+    border-radius: 8px; /* Adds rounded corners */
+    outline: none; /* Removes the blue outline on focus */
+    appearance: none; /* Removes default arrow for custom styling */
+    cursor: pointer; /* Changes cursor to pointer on hover */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
+    justify-content: center;
+}
+
+select:hover {
+    background-color: #333; /* Darkens the background on hover */
+}
+
+select:focus {
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.5); /* Adds glow effect */
+}
+
+option {
+    background-color: black; /* Background color for options */
+    color: white; /* Text color for options */
+    padding: 1px; /* Ensures inner padding for options */
+}
+
+.networkquerysection2 {
+    width: 1000px; /* Added px unit */
+    height: 1000px; /* Added px unit */
+    margin-top: 80px;
+    position: relative;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.btn-custom-small {
+    font-size: 3px;
+    padding: 3px 6px;
+}
+
+.button-row {
+    display: flex;
+    gap: 30px; /* adds spacing between buttons */
+    margin-top: 10px;
+}
+
+.btn-green {
+    background-color: white;
+    color: green;
+    border: 2px solid green;
+    padding: 10px 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-green:hover {
+    background-color: green;
+    color: white;
+}
+
+.manual-image {
+    display: block;               /* Makes centering work */
+    margin: 1rem auto;            /* Center horizontally with spacing */
+    border: 1px solid black;      /* Thin black border */
+    border-radius: 10px;          /* Rounded corners */
+    max-width: 300px;               /* Scales image down responsively */
+    height: auto;                 /* Maintains aspect ratio */
+}
+
+.manual-image-larger {
+    display: block;               /* Makes centering work */
+    margin: 1rem auto;            /* Center horizontally with spacing */
+    border: 1px solid black;      /* Thin black border */
+    border-radius: 10px;          /* Rounded corners */
+    max-width: 600px;               /* Scales image down responsively */
+    height: auto;                 /* Maintains aspect ratio */
+}
+
+.manual-section {
+    border: 1px solid #ccc;            /* Light border */
+    border-radius: 12px;               /* Rounded corners */
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);  /* Subtle shadow */
+    padding: 1.5rem;                   /* Inner spacing */
+    margin: 2rem auto;                 /* Space around section */
+    max-width: 1200px;                  /* Optional width */
+    background-color: #fff;           /* Optional white background */
+}
+.category-link {
+    display: block;
+    color: black !important;              /* Override default blue */
+    text-decoration: none !important;     /* Remove underline */
+    font-size: 20px;
+    letter-spacing: 2px;
+    background: none;
+    border: none;
+    padding: 8px 20px;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: "Arial", Helvetica, sans-serif;
+}
+
+.category-link:hover {
+    color: #cccccc;
+    background-color: black;
+    text-decoration: none;
+}
+
+.category-link:active {
+    color: #999999;
+}
