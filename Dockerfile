@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y \
     g++ \
     git \
     libpq-dev \
-    libgl1-mesa-glx \
+    libgl1-mesa-dev \
     wget \
     curl \
     && rm -rf /var/lib/apt/lists/*
@@ -35,3 +35,4 @@ CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "10000"]
 
 # If you want Flask instead:
 # CMD ["flask", "run", "--host=0.0.0.0", "--port=10000"]
+
