@@ -1,0 +1,3302 @@
+﻿[
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647475,
+      "start": 68959,
+      "end": 94259,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647475",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94259"
+    },
+    "n1": {
+      "identity": 94259,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speakers express a neutral stance on carbon, emphasizing the importance of balancing emissions with sequestration and carbon capture. They advocate for a pragmatic approach that includes both biofuels and fossil fuels, while also highlighting the need to manage agricultural emissions. Additionally, there is an interest in understanding the technological aspects of carbon credits and agricultural slurry management, reflecting a desire for informed decision-making in carbon management strategies.",
+        "name": "Senator",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94259"
+    },
+    "r2": {
+      "identity": 6918062290780647475,
+      "start": 68959,
+      "end": 94259,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647475",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94259"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647478,
+      "start": 68959,
+      "end": 94262,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647478",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94262"
+    },
+    "n1": {
+      "identity": 94262,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speakers from the political party express a unified opposition to carbon-related policies, highlighting concerns over recent increases in agricultural emissions, unilateral decisions by regulatory bodies, and discrepancies in nitrogen efficiency calculations. They also voice frustration regarding delays in testing and a lack of acknowledgment for farmers' contributions to emissions reduction, while questioning the feasibility and clarity of proposed carbon reduction targets.",
+        "name": "Senator",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94262"
+    },
+    "r2": {
+      "identity": 6918062290780647478,
+      "start": 68959,
+      "end": 94262,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647478",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94262"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647481,
+      "start": 68959,
+      "end": 94265,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647481",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94265"
+    },
+    "n1": {
+      "identity": 94265,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively express strong support for carbon initiatives, particularly emphasizing the agricultural sector's critical role in carbon sequestration and the importance of achieving carbon neutrality by 2050 through equitable actions. They highlight the need for farmers to adapt to rising costs and maximize resources, while also advocating for continued engagement with farmers regarding nitrogen derogation policies. Overall, there is a unified sentiment towards enhancing carbon management and recognizing agriculture's contributions, with a focus on sustainable practices and necessary emissions reductions.",
+        "name": "Senator",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94265"
+    },
+    "r2": {
+      "identity": 6918062290780647481,
+      "start": 68959,
+      "end": 94265,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647481",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94265"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647483,
+      "start": 68959,
+      "end": 94267,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647483",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94267"
+    },
+    "n1": {
+      "identity": 94267,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speakers express a neutral stance, recognizing the complexities surrounding agricultural emissions and environmental concerns. They note that while nitrate levels are rising, they remain within acceptable limits, which poses potential risks to farmers' economic viability. Additionally, there is a consensus on the necessity of carbon capture and sequestration, alongside a pragmatic approach that incorporates both biofuels and fossil fuels, while acknowledging that complete elimination of emissions is not feasible.",
+        "name": "Senator",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94267"
+    },
+    "r2": {
+      "identity": 6918062290780647483,
+      "start": 68959,
+      "end": 94267,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647483",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94267"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647486,
+      "start": 68959,
+      "end": 94270,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647486",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94270"
+    },
+    "n1": {
+      "identity": 94270,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speaker opposes the topic, highlighting frustration with the slow progress in testing and the insufficient acknowledgment of farmers' contributions to emission reduction and efficient nitrogen use.",
+        "name": "Senator",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94270"
+    },
+    "r2": {
+      "identity": 6918062290780647486,
+      "start": 68959,
+      "end": 94270,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647486",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94270"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647487,
+      "start": 68959,
+      "end": 94271,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647487",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94271"
+    },
+    "n1": {
+      "identity": 94271,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively express strong support for achieving carbon neutrality by 2050, emphasizing the importance of sustainable practices in agriculture and the need for significant emissions reductions. They highlight the agricultural sector's vital role in carbon sequestration and advocate for supporting farmers through enhanced slurry management and storage capacity. Additionally, there is a call for inclusive discussions involving community representatives and a focus on industry-led initiatives to improve water quality, reflecting a collaborative approach to environmental challenges.",
+        "name": "Senator",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94271"
+    },
+    "r2": {
+      "identity": 6918062290780647487,
+      "start": 68959,
+      "end": 94271,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647487",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94271"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647488,
+      "start": 68959,
+      "end": 94272,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647488",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94272"
+    },
+    "n1": {
+      "identity": 94272,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speakers express a neutral stance on water quality, raising concerns about various factors affecting it, such as urban wastewater, road pollutants, and outdated data. While some question the relevance of minor nitrate increases in mapping and the scientific evidence linking agricultural practices to water quality changes, there is a shared emphasis on the need for comprehensive assessments that consider all potential impacts on water resources.",
+        "name": "Senator",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94272"
+    },
+    "r2": {
+      "identity": 6918062290780647488,
+      "start": 68959,
+      "end": 94272,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647488",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94272"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647500,
+      "start": 68959,
+      "end": 94284,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647500",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94284"
+    },
+    "n1": {
+      "identity": 94284,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speakers collectively oppose changes related to water management, highlighting concerns about the adverse effects on small rural economies and farmers' livelihoods due to increased nitrate levels and outdated water quality reports. They emphasize the negative impact of certain farming practices on water quality and express frustration over unilateral decisions made by regulatory bodies without adequate consultation. Additionally, there is a shared belief that farmers, despite their efforts to improve water quality, may face unfair penalties, underscoring the need for a balanced and scientifically informed approach.",
+        "name": "Senator",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94284"
+    },
+    "r2": {
+      "identity": 6918062290780647500,
+      "start": 68959,
+      "end": 94284,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647500",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94284"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647506,
+      "start": 68959,
+      "end": 94290,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647506",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94290"
+    },
+    "n1": {
+      "identity": 94290,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively express strong support for initiatives aimed at improving water quality, emphasizing the importance of addressing pollutants, particularly from urban sources and agricultural practices. They advocate for equitable and sustainable policies, including industry-led initiatives and realistic targets for water quality improvement. Additionally, there is a consensus on the need for inclusive discussions that involve community representatives and a focus on effective purification processes, particularly regarding nitrates and nitrogen levels in water.",
+        "name": "Senator",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94290"
+    },
+    "r2": {
+      "identity": 6918062290780647506,
+      "start": 68959,
+      "end": 94290,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647506",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94290"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647641,
+      "start": 68959,
+      "end": 94425,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647641",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94425"
+    },
+    "n1": {
+      "identity": 94425,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speakers convey a neutral stance on carbon-related issues, highlighting concerns about the potential burden of carbon tax on low-income households and the importance of effective communication. They emphasize the need for fair compensation for farmers in achieving emissions targets and advocate for a broader perspective on the just transition fund, recognizing its community-wide implications. Additionally, they note that the nitrates issue extends beyond agriculture, implicating urban wastewater as a significant contributor.",
+        "name": "Deputy (TD)",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94425"
+    },
+    "r2": {
+      "identity": 6918062290780647641,
+      "start": 68959,
+      "end": 94425,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647641",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94425"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647643,
+      "start": 68959,
+      "end": 94427,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647643",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94427"
+    },
+    "n1": {
+      "identity": 94427,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The speakers express a neutral sentiment regarding the topic, highlighting a range of concerns related to rural development, environmental policies, and the agricultural sector's role in emissions reduction. Key themes include the need for a comprehensive approach to the just transition fund that considers community needs, the importance of fair compensation for farmers, and the acknowledgment of urban and industrial contributions to environmental issues. Additionally, there are concerns about the effectiveness of current policies, the impact of carbon taxes on low-income households, and the necessity for improved communication and prioritization in rural development initiatives.",
+        "name": "Deputy (TD)",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94427"
+    },
+    "r2": {
+      "identity": 6918062290780647643,
+      "start": 68959,
+      "end": 94427,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647643",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94427"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647645,
+      "start": 68959,
+      "end": 94429,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647645",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94429"
+    },
+    "n1": {
+      "identity": 94429,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speakers from Political Party 002 uniformly oppose the current government policies on rural development, citing inadequacies in addressing essential services and infrastructure needs. They express concerns about the effectiveness of action plans, criticizing them as ineffective and lacking genuine reform. Additionally, there is a shared sentiment regarding the mismanagement of resources, particularly in water infrastructure and environmental issues, highlighting a perceived disconnect between government actions and the realities faced by rural communities.",
+        "name": "Deputy (TD)",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94429"
+    },
+    "r2": {
+      "identity": 6918062290780647645,
+      "start": 68959,
+      "end": 94429,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647645",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94429"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647646,
+      "start": 68959,
+      "end": 94430,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647646",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94430"
+    },
+    "n1": {
+      "identity": 94430,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The speakers collectively express strong support for enhanced water management and infrastructure improvements, emphasizing the need for significant investment to address water quality issues, particularly related to agriculture and nitrates. They advocate for targeted aid for affected farms and stress the importance of public ownership of water resources, while also calling for government action to combat pollution and promote conservation. Despite a shared sentiment, there are varying perspectives on the impact of nitrates derogation, with some defending its necessity for farmers, while others highlight the need for accountability and support from agricultural organizations.",
+        "name": "Deputy (TD)",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94430"
+    },
+    "r2": {
+      "identity": 6918062290780647646,
+      "start": 68959,
+      "end": 94430,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647646",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94430"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647647,
+      "start": 68959,
+      "end": 94431,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647647",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94431"
+    },
+    "n1": {
+      "identity": 94431,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The speakers express a neutral stance on water issues, noting that nitrate concentrations may have improved slightly over time and emphasizing that municipal waste, urban wastewater, and industrial contributions are significant sources of pollution. They collectively argue against the notion that agriculture is the primary threat to water sources, highlighting the complexity of the problem and the need for comprehensive management strategies rather than focusing solely on farming practices.",
+        "name": "Deputy (TD)",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94431"
+    },
+    "r2": {
+      "identity": 6918062290780647647,
+      "start": 68959,
+      "end": 94431,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647647",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94431"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647739,
+      "start": 68959,
+      "end": 94523,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647739",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94523"
+    },
+    "n1": {
+      "identity": 94523,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker acknowledges concerns regarding the economic competitiveness of start-ups relative to other regions, emphasizing the necessity for improved support and greater awareness of the impacts of taxation.",
+        "name": "Deputy (TD), Deputy Leader",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94523"
+    },
+    "r2": {
+      "identity": 6918062290780647739,
+      "start": 68959,
+      "end": 94523,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647739",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94523"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647783,
+      "start": 68959,
+      "end": 94567,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647783",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94567"
+    },
+    "n1": {
+      "identity": 94567,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speaker collectively expresses strong opposition to the government's approach to carbon emissions, criticizing its failure to meet climate change targets and highlighting a concerning trend of increasing emissions. There is a shared skepticism regarding the feasibility of the government's climate plan and its ambitious targets, with calls for more concrete measures to address the issue effectively.",
+        "name": "Deputy (TD), Leader of Fianna Fáil and Taoiseach (Prime Minister) of Ireland",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94567"
+    },
+    "r2": {
+      "identity": 6918062290780647783,
+      "start": 68959,
+      "end": 94567,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647783",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94567"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647812,
+      "start": 68959,
+      "end": 94596,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647812",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94596"
+    },
+    "n1": {
+      "identity": 94596,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker expresses strong support for the retention of water services and infrastructure in public ownership, highlighting the importance of accountability and funding through general taxation. There is a consistent emphasis on the benefits of public management in ensuring effective service delivery.",
+        "name": "Deputy (TD), Minister for Agriculture, Food and the Marine",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94596"
+    },
+    "r2": {
+      "identity": 6918062290780647812,
+      "start": 68959,
+      "end": 94596,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647812",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94596"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647840,
+      "start": 68959,
+      "end": 94624,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647840",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94624"
+    },
+    "n1": {
+      "identity": 94624,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker expresses strong support for reducing reliance on fossil fuels and investing in low-carbon technologies, emphasizing the importance of implementing economy-wide carbon budgets and accountability for emissions targets. There is a consensus on aligning public investment with climate objectives, though one speaker highlights the need to postpone the new VRT system to prevent market distortion for hybrid vehicles, indicating a nuanced approach to policy implementation.",
+        "name": "Deputy (TD), Minister for Public Expenditure and Reform, Deputy of the Dail Eireann",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94624"
+    },
+    "r2": {
+      "identity": 6918062290780647840,
+      "start": 68959,
+      "end": 94624,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647840",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94624"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647860,
+      "start": 68959,
+      "end": 94644,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647860",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94644"
+    },
+    "n1": {
+      "identity": 94644,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker expresses strong support for initiatives that enhance rural safety and crime prevention through community engagement, highlighting the critical role of farmers in sustaining rural communities and their economic viability. There is a consistent emphasis on the need for equality and fairness in society, alongside a call for a new rural crime strategy to further bolster rural development. Overall, the sentiments reflect a unified commitment to improving rural conditions and supporting the agricultural sector.",
+        "name": "Deputy (TD), Minister of State at the Department of Health",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94644"
+    },
+    "r2": {
+      "identity": 6918062290780647860,
+      "start": 68959,
+      "end": 94644,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647860",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94644"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647871,
+      "start": 68959,
+      "end": 94655,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647871",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94655"
+    },
+    "n1": {
+      "identity": 94655,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively highlight the significance of rural social schemes in fostering community engagement and providing financial support to farming families and those in need. They consistently underscore the role of these initiatives in enhancing rural development and community involvement, reflecting a unified support for the topic.",
+        "name": "Deputy (TD), Minister of State for Disability at the Department of Health and the Department of Justice",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94655"
+    },
+    "r2": {
+      "identity": 6918062290780647871,
+      "start": 68959,
+      "end": 94655,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647871",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94655"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647948,
+      "start": 68959,
+      "end": 94732,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647948",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94732"
+    },
+    "n1": {
+      "identity": 94732,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker expresses strong support for integrating carbon sequestration from grasslands into climate action, highlighting its importance for farmers' fairness. They advocate for agriculture's role in carbon reduction while maintaining economic sustainability and stress the necessity for equitable measurement of carbon sequestration. Additionally, the Speaker endorses the carbon tax as a progressive initiative that would benefit rural communities and tackle climate change effectively.",
+        "name": "Deputy and Spokesperson on Food and Horticulture",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94732"
+    },
+    "r2": {
+      "identity": 6918062290780647948,
+      "start": 68959,
+      "end": 94732,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647948",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94732"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647949,
+      "start": 68959,
+      "end": 94733,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647949",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94733"
+    },
+    "n1": {
+      "identity": 94733,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker highlights that financial constraints and concerns over family asset loss impede planned succession in agriculture, which delays the transfer of farms and businesses. Additionally, there is a call for fair measurement and recognition of carbon sequestration from grasslands as part of agriculture's role in emissions reduction, indicating a nuanced view on the agricultural sector's environmental impact.",
+        "name": "Deputy and Spokesperson on Food and Horticulture",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94733"
+    },
+    "r2": {
+      "identity": 6918062290780647949,
+      "start": 68959,
+      "end": 94733,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647949",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94733"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647952,
+      "start": 68959,
+      "end": 94736,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647952",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94736"
+    },
+    "n1": {
+      "identity": 94736,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speakers collectively oppose the proposed pipeline to transport water from the River Shannon to Dublin, raising concerns about the rationale and feasibility of the project in light of existing infrastructure leaks and issues. They emphasize the need for investment in local wastewater treatment facilities instead of diverting resources to this pipeline initiative.",
+        "name": "Deputy and Spokesperson on Food and Horticulture",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94736"
+    },
+    "r2": {
+      "identity": 6918062290780647952,
+      "start": 68959,
+      "end": 94736,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647952",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94736"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780647978,
+      "start": 68959,
+      "end": 94762,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647978",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94762"
+    },
+    "n1": {
+      "identity": 94762,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker acknowledges the importance of water usage and highlights ongoing investigations into the potential use of brown water for cooling data centers, reflecting a neutral stance on the topic.",
+        "name": "Deputy for Dublin South West",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94762"
+    },
+    "r2": {
+      "identity": 6918062290780647978,
+      "start": 68959,
+      "end": 94762,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780647978",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:94762"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780663763,
+      "start": 68959,
+      "end": 110547,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780663763",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110547"
+    },
+    "n1": {
+      "identity": 110547,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker expresses a neutral stance, suggesting that consumers may not be responsible for the financial burdens linked to climate change initiatives in agriculture.",
+        "name": "Deputy and Spokesperson on Food and Horticulture",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110547"
+    },
+    "r2": {
+      "identity": 6918062290780663763,
+      "start": 68959,
+      "end": 110547,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780663763",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110547"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664025,
+      "start": 68959,
+      "end": 110809,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664025",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110809"
+    },
+    "n1": {
+      "identity": 110809,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speakers collectively oppose the topic of carbon, emphasizing that merely raising carbon prices will not resolve issues such as range anxiety for electric vehicles. They express strong opposition to the EU-Mercosur deal, citing Brazil's non-compliance with Paris Agreement commitments and its detrimental effects on agriculture. Additionally, there are concerns regarding increasing environmental regulations on farmers related to nitrates, which are perceived as lacking sufficient evidence for their effectiveness.",
+        "name": "Deputy (TD)",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110809"
+    },
+    "r2": {
+      "identity": 6918062290780664025,
+      "start": 68959,
+      "end": 110809,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664025",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110809"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664027,
+      "start": 68959,
+      "end": 110811,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664027",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110811"
+    },
+    "n1": {
+      "identity": 110811,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The speakers express strong support for carbon-related initiatives, emphasizing the need for a planned transition away from carbon-intensive activities, with government intervention to assist affected communities. They advocate for clear carbon reduction targets, including a 51% reduction in greenhouse gas emissions by 2030 and net zero by 2050, while also highlighting the importance of hedgerows and improved public transport in achieving these goals. Additionally, there is a call for a balanced approach that considers the economic viability of farmers and the necessity of fair compensation for their participation in sustainability efforts, alongside a moderate increase in carbon tax to drive behavioral change.",
+        "name": "Deputy (TD)",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110811"
+    },
+    "r2": {
+      "identity": 6918062290780664027,
+      "start": 68959,
+      "end": 110811,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664027",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110811"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664030,
+      "start": 68959,
+      "end": 110814,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664030",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110814"
+    },
+    "n1": {
+      "identity": 110814,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The speakers collectively express strong support for various initiatives aimed at enhancing rural development, emphasizing the importance of community involvement, funding for infrastructure, and the protection of family farms. They advocate for legislative reforms to improve the economic viability of agriculture, the establishment of dedicated departments for rural issues, and the need for clear carbon reduction targets. While there is a consensus on the necessity of support for rural communities and sustainable practices, some speakers highlight the urgency of addressing specific challenges such as water systems, pollution, and planning issues, reflecting a shared commitment to revitalizing rural areas and ensuring their long-term sustainability.",
+        "name": "Deputy (TD)",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110814"
+    },
+    "r2": {
+      "identity": 6918062290780664030,
+      "start": 68959,
+      "end": 110814,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664030",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110814"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664032,
+      "start": 68959,
+      "end": 110816,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664032",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110816"
+    },
+    "n1": {
+      "identity": 110816,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The speakers collectively express strong opposition regarding the current state of water management, highlighting concerns over deteriorating infrastructure, lack of accountability, and insufficient investment impacting both water quality and agricultural viability. They emphasize frustration with inadequate funding and coordination among State bodies, particularly in addressing flooding and wastewater treatment issues. While some acknowledge recent investments, there is a consensus that local authorities have not prioritized these critical water-related challenges effectively.",
+        "name": "Deputy (TD)",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110816"
+    },
+    "r2": {
+      "identity": 6918062290780664032,
+      "start": 68959,
+      "end": 110816,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664032",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110816"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664124,
+      "start": 68959,
+      "end": 110908,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664124",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110908"
+    },
+    "n1": {
+      "identity": 110908,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker highlights the critical role of rivers as essential resources for both ecosystems and communities, underscoring the need for their protection.",
+        "name": "Deputy (TD), Deputy Leader",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110908"
+    },
+    "r2": {
+      "identity": 6918062290780664124,
+      "start": 68959,
+      "end": 110908,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664124",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110908"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664127,
+      "start": 68959,
+      "end": 110911,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664127",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110911"
+    },
+    "n1": {
+      "identity": 110911,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively highlight the critical role of protecting rivers as essential resources for both ecosystems and community well-being, underscoring their significance for fish populations and overall environmental health.",
+        "name": "Deputy (TD), Deputy Leader",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110911"
+    },
+    "r2": {
+      "identity": 6918062290780664127,
+      "start": 68959,
+      "end": 110911,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664127",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110911"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664168,
+      "start": 68959,
+      "end": 110952,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664168",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110952"
+    },
+    "n1": {
+      "identity": 110952,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The speakers collectively express strong opposition to the government's significant cuts to Leader funding for rural development, emphasizing the negative consequences for rural communities and local companies. They criticize the government's approach as detrimental, viewing it as a scandal that undermines both community autonomy and effective development practices. While the core sentiment is unified in opposition, the emphasis on the impact on local services and companies varies slightly among the speakers.",
+        "name": "Deputy (TD), Leader of Fianna Fáil and Taoiseach (Prime Minister) of Ireland",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110952"
+    },
+    "r2": {
+      "identity": 6918062290780664168,
+      "start": 68959,
+      "end": 110952,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664168",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110952"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664169,
+      "start": 68959,
+      "end": 110953,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664169",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110953"
+    },
+    "n1": {
+      "identity": 110953,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker highlights a strong commitment to community solidarity and local development, underscoring its significance for both urban and rural areas. There is a consistent emphasis on the need for funding to sustain these communities, reflecting a unified support for enhancing community ties and development initiatives.",
+        "name": "Deputy (TD), Leader of Fianna Fáil and Taoiseach (Prime Minister) of Ireland",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110953"
+    },
+    "r2": {
+      "identity": 6918062290780664169,
+      "start": 68959,
+      "end": 110953,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664169",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110953"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664196,
+      "start": 68959,
+      "end": 110980,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664196",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110980"
+    },
+    "n1": {
+      "identity": 110980,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker expresses strong support for public ownership and management of water services, highlighting the importance of accountability and funding through general taxation. There is a consensus on retaining water services and infrastructure in public ownership, with one speaker specifically advocating for a constitutional amendment to safeguard this approach.",
+        "name": "Deputy (TD), Minister for Agriculture, Food and the Marine",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110980"
+    },
+    "r2": {
+      "identity": 6918062290780664196,
+      "start": 68959,
+      "end": 110980,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664196",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110980"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664198,
+      "start": 68959,
+      "end": 110982,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664198",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110982"
+    },
+    "n1": {
+      "identity": 110982,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speaker opposes the current approach to water services, highlighting concerns about financial management and the resulting burden on taxpayers.",
+        "name": "Deputy (TD), Minister for Agriculture, Food and the Marine",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110982"
+    },
+    "r2": {
+      "identity": 6918062290780664198,
+      "start": 68959,
+      "end": 110982,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664198",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:110982"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664220,
+      "start": 68959,
+      "end": 111004,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664220",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111004"
+    },
+    "n1": {
+      "identity": 111004,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker emphasizes the necessity for a report assessing the viability of a diesel rebate scheme in light of rising carbon taxes, while also recognizing that the proposed emissions threshold is below the average for petrol or diesel vehicles, indicating a commitment to further investigation of the matter.",
+        "name": "Deputy (TD), Minister for Public Expenditure and Reform, Deputy of the Dail Eireann",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111004"
+    },
+    "r2": {
+      "identity": 6918062290780664220,
+      "start": 68959,
+      "end": 111004,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664220",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111004"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664223,
+      "start": 68959,
+      "end": 111007,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664223",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111007"
+    },
+    "n1": {
+      "identity": 111007,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speaker expresses opposition to the current carbon-related policies, highlighting disappointment over the Finance Bill's failure to provide relief for hauliers facing increased costs from the carbon tax. Additionally, there is concern that existing emissions regulations unfairly disadvantage hybrid vehicles compared to diesel, suggesting that hybrids may not be as environmentally beneficial as assumed.",
+        "name": "Deputy (TD), Minister for Public Expenditure and Reform, Deputy of the Dail Eireann",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111007"
+    },
+    "r2": {
+      "identity": 6918062290780664223,
+      "start": 68959,
+      "end": 111007,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664223",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111007"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664224,
+      "start": 68959,
+      "end": 111008,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664224",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111008"
+    },
+    "n1": {
+      "identity": 111008,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker expresses strong support for the implementation of economy-wide carbon budgets and accountability for emissions targets, highlighting the importance of reducing reliance on fossil fuels and investing in low-carbon technologies. There is a consistent emphasis on the need for comprehensive strategies to address climate change.",
+        "name": "Deputy (TD), Minister for Public Expenditure and Reform, Deputy of the Dail Eireann",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111008"
+    },
+    "r2": {
+      "identity": 6918062290780664224,
+      "start": 68959,
+      "end": 111008,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664224",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111008"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664330,
+      "start": 68959,
+      "end": 111114,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664330",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111114"
+    },
+    "n1": {
+      "identity": 111114,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speakers uniformly oppose the EU-Mercosur trade deal, emphasizing that it undermines European agriculture and is hypocritical regarding climate change efforts. Their statements reflect a strong consensus on the detrimental impact of the deal on both agricultural integrity and climate commitments.",
+        "name": "Deputy and Spokesperson on Food and Horticulture",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111114"
+    },
+    "r2": {
+      "identity": 6918062290780664330,
+      "start": 68959,
+      "end": 111114,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664330",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111114"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664333,
+      "start": 68959,
+      "end": 111117,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664333",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111117"
+    },
+    "n1": {
+      "identity": 111117,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The speakers collectively oppose the EU-Mercosur trade deal, arguing it undermines European agriculture and contradicts climate change initiatives. They also express significant concerns regarding the proposed pipeline from the River Shannon to Dublin, questioning the effectiveness of Irish Water's capital expenditures and advocating for more investment in local wastewater treatment facilities. Additionally, there is a shared skepticism about the current approach to carbon emissions, with doubts about consumer willingness to absorb related costs.",
+        "name": "Deputy and Spokesperson on Food and Horticulture",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111117"
+    },
+    "r2": {
+      "identity": 6918062290780664333,
+      "start": 68959,
+      "end": 111117,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664333",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111117"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664335,
+      "start": 68959,
+      "end": 111119,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664335",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111119"
+    },
+    "n1": {
+      "identity": 111119,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker expresses strong support for the carbon tax as a fair and progressive initiative that benefits rural areas and addresses climate change, while also highlighting the importance of equitable measurement of carbon sequestration in agriculture. There is a consensus on the necessity for significant investment in water infrastructure to enhance water quality, alongside a call for agriculture to contribute to carbon reduction in a manner that maintains economic sustainability. Additionally, the Speaker underscores the importance of community policing, indicating a broader focus on community welfare.",
+        "name": "Deputy and Spokesperson on Food and Horticulture",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111119"
+    },
+    "r2": {
+      "identity": 6918062290780664335,
+      "start": 68959,
+      "end": 111119,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664335",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111119"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664358,
+      "start": 68959,
+      "end": 111142,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664358",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111142"
+    },
+    "n1": {
+      "identity": 111142,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker acknowledges the importance of water usage in relation to carbon management, specifically highlighting an investigation into the potential use of brown water for cooling data centres. This reflects a neutral stance, recognizing the complexities of resource management in carbon-related discussions.",
+        "name": "Deputy for Dublin South West",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111142"
+    },
+    "r2": {
+      "identity": 6918062290780664358,
+      "start": 68959,
+      "end": 111142,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664358",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111142"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664359,
+      "start": 68959,
+      "end": 111143,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664359",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111143"
+    },
+    "n1": {
+      "identity": 111143,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively support urgent action on carbon reduction, highlighting the significance of carbon budgeting and local initiatives to engage communities effectively. They advocate for measures such as increased cycling and e-transport options, along with proactive strategies to mitigate emissions from polluting vehicles, all aimed at improving air quality and achieving carbon neutrality.",
+        "name": "Deputy for Dublin South West",
+        "topic": "carbon",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111143"
+    },
+    "r2": {
+      "identity": 6918062290780664359,
+      "start": 68959,
+      "end": 111143,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664359",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111143"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664360,
+      "start": 68959,
+      "end": 111144,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664360",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111144"
+    },
+    "n1": {
+      "identity": 111144,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Neutral",
+        "thought": "The Speaker acknowledges the importance of water conservation and highlights ongoing investigations into the potential use of brown water for cooling data centers, reflecting a neutral stance on the topic while emphasizing environmental considerations.",
+        "name": "Deputy for Dublin South West",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111144"
+    },
+    "r2": {
+      "identity": 6918062290780664360,
+      "start": 68959,
+      "end": 111144,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664360",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111144"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664361,
+      "start": 68959,
+      "end": 111145,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664361",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111145"
+    },
+    "n1": {
+      "identity": 111145,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speaker opposes the topic by highlighting concerns regarding the significant water consumption of data centres, specifically referencing an investigation by AWS into the use of brown water for cooling purposes.",
+        "name": "Deputy for Dublin South West",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111145"
+    },
+    "r2": {
+      "identity": 6918062290780664361,
+      "start": 68959,
+      "end": 111145,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664361",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111145"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664362,
+      "start": 68959,
+      "end": 111146,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664362",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111146"
+    },
+    "n1": {
+      "identity": 111146,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively emphasize the importance of urgent action to reduce carbon emissions, highlighting the promotion of cycling and e-transport options as key strategies. They also support local carbon budgeting initiatives to foster community engagement in environmental efforts. While all share a supportive sentiment, there is a strong focus on improving air quality through proactive measures against vehicle emissions.",
+        "name": "Deputy for Dublin South West",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111146"
+    },
+    "r2": {
+      "identity": 6918062290780664362,
+      "start": 68959,
+      "end": 111146,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664362",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111146"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664376,
+      "start": 68959,
+      "end": 111160,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664376",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111160"
+    },
+    "n1": {
+      "identity": 111160,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers collectively express strong support for community-based initiatives, highlighting the critical role of State support in fostering these solutions. They emphasize the necessity of community involvement and collaboration to effectively address local issues, reinforcing the idea that state backing is essential for the success of community groups.",
+        "name": "Deputy, Spokesperson on Justice and Equality",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111160"
+    },
+    "r2": {
+      "identity": 6918062290780664376,
+      "start": 68959,
+      "end": 111160,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664376",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111160"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664477,
+      "start": 68959,
+      "end": 111261,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664477",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111261"
+    },
+    "n1": {
+      "identity": 111261,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Oppose",
+        "thought": "The Speakers collectively oppose the topic, highlighting concerns about cutbacks in the Leader programmes and the potential negative impact on the viability of rural development schemes. Both statements reflect a shared apprehension regarding the sustainability of future initiatives.",
+        "name": "Former Deputy",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111261"
+    },
+    "r2": {
+      "identity": 6918062290780664477,
+      "start": 68959,
+      "end": 111261,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664477",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111261"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664478,
+      "start": 68959,
+      "end": 111262,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664478",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111262"
+    },
+    "n1": {
+      "identity": 111262,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speakers express strong support for addressing significant flooding issues within the community, highlighting the urgent need for effective solutions and compensation for victims. Additionally, there is a concern regarding cutbacks in rural development programs, emphasizing the necessity for improved support for farmers.",
+        "name": "Former Deputy",
+        "topic": "live",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111262"
+    },
+    "r2": {
+      "identity": 6918062290780664478,
+      "start": 68959,
+      "end": 111262,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664478",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111262"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  },
+  {
+    "l": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    },
+    "r1": {
+      "identity": 6918062290780664479,
+      "start": 68959,
+      "end": 111263,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664479",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111263"
+    },
+    "n1": {
+      "identity": 111263,
+      "labels": [
+        "UG_SENT_DESIGNATION"
+      ],
+      "properties": {
+        "sentiment": "Support",
+        "thought": "The Speaker highlights the pressing issue of flooding in communities, especially in Enniscorthy, and underscores the necessity for prompt and effective solutions, along with compensation for those affected.",
+        "name": "Former Deputy",
+        "topic": "water",
+        "source": "Transcripts"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111263"
+    },
+    "r2": {
+      "identity": 6918062290780664479,
+      "start": 68959,
+      "end": 111263,
+      "type": "UG_SENT_LABEL_HAS_DESIGNATION",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918062290780664479",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:111263"
+    },
+    "n2": {
+      "identity": 68959,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Political Party",
+        "name": "Political Party 002",
+        "stakeholder": "Fianna Fáil",
+        "norm": "politicalparty002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68959"
+    }
+  }
+]

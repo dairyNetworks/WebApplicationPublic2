@@ -1,0 +1,506 @@
+﻿[
+  {
+    "n": {
+      "identity": 91662,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to continue close cooperation with Department of Environment, Community and Local Government (DECLG) and the EPA on the delivery of the Water Framework Directive, in particular on development of the second phase River Basin Management Plans.",
+        "shortAction": "Cooperate on River Basin Plans"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91662"
+    },
+    "r": {
+      "identity": 1153419583374321166,
+      "start": 91662,
+      "end": 91669,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153419583374321166",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91662",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91669"
+    },
+    "m": {
+      "identity": 91669,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91669"
+    }
+  },
+  {
+    "n": {
+      "identity": 91662,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to continue close cooperation with Department of Environment, Community and Local Government (DECLG) and the EPA on the delivery of the Water Framework Directive, in particular on development of the second phase River Basin Management Plans.",
+        "shortAction": "Cooperate on River Basin Plans"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91662"
+    },
+    "r": {
+      "identity": 1155671383188006414,
+      "start": 91662,
+      "end": 91670,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1155671383188006414",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91662",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91670"
+    },
+    "m": {
+      "identity": 91670,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Environment, Climate and Communications 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91670"
+    }
+  },
+  {
+    "n": {
+      "identity": 91662,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to continue close cooperation with Department of Environment, Community and Local Government (DECLG) and the EPA on the delivery of the Water Framework Directive, in particular on development of the second phase River Basin Management Plans.",
+        "shortAction": "Cooperate on River Basin Plans"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91662"
+    },
+    "r": {
+      "identity": 1157923183001691662,
+      "start": 91662,
+      "end": 91671,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157923183001691662",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91662",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91671"
+    },
+    "m": {
+      "identity": 91671,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of the Environment, Community and Local Government 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91671"
+    }
+  },
+  {
+    "n": {
+      "identity": 91662,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to continue close cooperation with Department of Environment, Community and Local Government (DECLG) and the EPA on the delivery of the Water Framework Directive, in particular on development of the second phase River Basin Management Plans.",
+        "shortAction": "Cooperate on River Basin Plans"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91662"
+    },
+    "r": {
+      "identity": 1160174982815376910,
+      "start": 91662,
+      "end": 91672,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1160174982815376910",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91662",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91672"
+    },
+    "m": {
+      "identity": 91672,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91672"
+    }
+  },
+  {
+    "n": {
+      "identity": 91663,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Teagasc to develop and rollout a Nutrient Management software tool to enhance cost-effective use of feed, fertiliser and slurry to minimise nitrogen (nitrate, ammonia and nitrous oxide) and phosphorus losses.",
+        "shortAction": "Develop nutrient management software tool"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91663"
+    },
+    "r": {
+      "identity": 1153419583374321167,
+      "start": 91663,
+      "end": 91673,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153419583374321167",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91663",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91673"
+    },
+    "m": {
+      "identity": 91673,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-state agency 012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91673"
+    }
+  },
+  {
+    "n": {
+      "identity": 91664,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Teagasc to develop soil specific advice for both organic and inorganic manure use to take account of mineralisation across soils to help inform optimal fertiliser application rates and timing.",
+        "shortAction": "Develop soil-specific fertiliser advice"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91664"
+    },
+    "r": {
+      "identity": 1153419583374321168,
+      "start": 91664,
+      "end": 91673,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153419583374321168",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91664",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91673"
+    },
+    "m": {
+      "identity": 91673,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-state agency 012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91673"
+    }
+  },
+  {
+    "n": {
+      "identity": 91665,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Teagasc to carry out a soil nutrient census to track soil fertility trends.",
+        "shortAction": "Conduct soil nutrient census"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91665"
+    },
+    "r": {
+      "identity": 1153419583374321169,
+      "start": 91665,
+      "end": 91673,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153419583374321169",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91665",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91673"
+    },
+    "m": {
+      "identity": 91673,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-state agency 012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91673"
+    }
+  },
+  {
+    "n": {
+      "identity": 91666,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "DAFM to work closely with responsible agencies to monitor potential localised/regionalised impacts of dairy herd expansion on water quality and to develop mitigation measures, in conjunction with the scientific findings from the Agricultural Catchments Programme.",
+        "shortAction": "Monitor dairy impacts and mitigate"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91666"
+    },
+    "r": {
+      "identity": 1153419583374321170,
+      "start": 91666,
+      "end": 91669,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153419583374321170",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91666",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91669"
+    },
+    "m": {
+      "identity": 91669,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91669"
+    }
+  },
+  {
+    "n": {
+      "identity": 91667,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "Teagasc to enhance PastureBase Ireland tool as a resource to help improve grassland and nitrogen management and increase grass utilisation.",
+        "shortAction": "Enhance PastureBase for grass use"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91667"
+    },
+    "r": {
+      "identity": 1153419583374321171,
+      "start": 91667,
+      "end": 91673,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153419583374321171",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91667",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91673"
+    },
+    "m": {
+      "identity": 91673,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-state agency 012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91673"
+    }
+  },
+  {
+    "n": {
+      "identity": 91668,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "In relation to the LIFE programme, DAFM will maintain close contact with DECLG, DAHG and other relevant stakeholders to ensure that any biodiversity, climate or water quality actions are appropriately targeted and implemented",
+        "shortAction": "Coordinate biodiversity and climate actions"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91668"
+    },
+    "r": {
+      "identity": 1153419583374321172,
+      "start": 91668,
+      "end": 91669,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153419583374321172",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91668",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91669"
+    },
+    "m": {
+      "identity": 91669,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91669"
+    }
+  },
+  {
+    "n": {
+      "identity": 91668,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "In relation to the LIFE programme, DAFM will maintain close contact with DECLG, DAHG and other relevant stakeholders to ensure that any biodiversity, climate or water quality actions are appropriately targeted and implemented",
+        "shortAction": "Coordinate biodiversity and climate actions"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91668"
+    },
+    "r": {
+      "identity": 1155671383188006420,
+      "start": 91668,
+      "end": 91671,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1155671383188006420",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91668",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91671"
+    },
+    "m": {
+      "identity": 91671,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of the Environment, Community and Local Government 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91671"
+    }
+  },
+  {
+    "n": {
+      "identity": 91668,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Action"
+      ],
+      "properties": {
+        "name": "In relation to the LIFE programme, DAFM will maintain close contact with DECLG, DAHG and other relevant stakeholders to ensure that any biodiversity, climate or water quality actions are appropriately targeted and implemented",
+        "shortAction": "Coordinate biodiversity and climate actions"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91668"
+    },
+    "r": {
+      "identity": 1157923183001691668,
+      "start": 91668,
+      "end": 91674,
+      "type": "WATER_LTWO_FWSTAKEHOLDER_ACTION_ASSIGNED_TO",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157923183001691668",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91668",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91674"
+    },
+    "m": {
+      "identity": 91674,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91674"
+    }
+  },
+  {
+    "n": {
+      "identity": 91669,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Agriculture, Food and the Marine 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91669"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91670,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Environment, Climate and Communications 004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91670"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91671,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of the Environment, Community and Local Government 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91671"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91672,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "State Agencies  001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91672"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91673,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Semi-state agency 012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91673"
+    },
+    "r": null,
+    "m": null
+  },
+  {
+    "n": {
+      "identity": 91674,
+      "labels": [
+        "WATER_LTWO_FWSTAKEHOLDER_Labels"
+      ],
+      "properties": {
+        "name": "Department of Arts, Heritage, Regional, Rural and Gaeltacht Affairs 001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:91674"
+    },
+    "r": null,
+    "m": null
+  }
+]

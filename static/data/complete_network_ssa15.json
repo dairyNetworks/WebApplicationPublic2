@@ -1,0 +1,782 @@
+﻿[
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1153456966769669650,
+      "start": 95762,
+      "end": 95803,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153456966769669650",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95803"
+    },
+    "n1": {
+      "identity": 95803,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "Realising our Rural Potential - Action Plan for Rural Development",
+        "shortaction": "Engage communities on water quality",
+        "name": "Engage with local communities on water quality projects through the Local Authority Waters and Communities Office.",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95803"
+    },
+    "r2": {
+      "identity": 1153456966769669650,
+      "start": 95762,
+      "end": 95803,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153456966769669650",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95803"
+    },
+    "n2": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1153456966769669650,
+      "start": 95762,
+      "end": 95803,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153456966769669650",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95803"
+    },
+    "n1": {
+      "identity": 95803,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "Realising our Rural Potential - Action Plan for Rural Development",
+        "shortaction": "Engage communities on water quality",
+        "name": "Engage with local communities on water quality projects through the Local Authority Waters and Communities Office.",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95803"
+    },
+    "r2": {
+      "identity": 1153456966769669651,
+      "start": 95763,
+      "end": 95803,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153456966769669651",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95763",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95803"
+    },
+    "n2": {
+      "identity": 95763,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "State Agencies and Local Authorities",
+        "name": "State Agencies and Local Authorities 004",
+        "stakeholder": "Local Authorities",
+        "norm": "stateagenciesandlocalauthorities004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95763"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1153456966769669650,
+      "start": 95762,
+      "end": 95803,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153456966769669650",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95803"
+    },
+    "n1": {
+      "identity": 95803,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "Realising our Rural Potential - Action Plan for Rural Development",
+        "shortaction": "Engage communities on water quality",
+        "name": "Engage with local communities on water quality projects through the Local Authority Waters and Communities Office.",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95803"
+    },
+    "r2": {
+      "identity": 1155708766583354906,
+      "start": 95770,
+      "end": 95803,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1155708766583354906",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95770",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95803"
+    },
+    "n2": {
+      "identity": 95770,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Department of Housing, Local Government and Heritage",
+        "name": "Department of Housing, Local Government and Heritage 001",
+        "stakeholder": "Department of Housing, Local Government and Heritage",
+        "norm": "departmentofhousing,localgovernmentandheritage001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95770"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1155708766583354898,
+      "start": 95762,
+      "end": 95808,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1155708766583354898",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95808"
+    },
+    "n1": {
+      "identity": 95808,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "Ireland's 4th National Biodiversity Plan 2023 to 2030",
+        "shortaction": "Implement water services strategic plan",
+        "name": "Uisce Ã‰ireann will implement its Water Services Strategic Plan (2015-2040), in particular its objective to protect and enhance the environment, together with its Biodiversity Action Plan",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95808"
+    },
+    "r2": {
+      "identity": 1155708766583354898,
+      "start": 95762,
+      "end": 95808,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1155708766583354898",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95808"
+    },
+    "n2": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1157960566397040146,
+      "start": 95762,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157960566397040146",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n1": {
+      "identity": 95821,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "National Biodiversity Action Plan 2017 - 2021",
+        "shortaction": "Achieve marine habitat protection targets",
+        "name": "5.1.2. Implement measures to achieve good ecological and environmental status of marine and coastal habitats as required by the Habitats, Directive, Water Framework Directive and Marine Strategy Framework Directive (MSFD) and in line with the OSPAR Convention (Convention for the protection of the marine environment in the North- East Atlantic)",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "r2": {
+      "identity": 1175974964906522120,
+      "start": 95752,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1175974964906522120",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95752",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n2": {
+      "identity": 95752,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Department of Agriculture, Food and the Marine",
+        "name": "Department of Agriculture, Food and the Marine 004",
+        "stakeholder": "Department of Agriculture, Food and the Marine",
+        "norm": "departmentofagriculture,foodandthemarine004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95752"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1157960566397040146,
+      "start": 95762,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157960566397040146",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n1": {
+      "identity": 95821,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "National Biodiversity Action Plan 2017 - 2021",
+        "shortaction": "Achieve marine habitat protection targets",
+        "name": "5.1.2. Implement measures to achieve good ecological and environmental status of marine and coastal habitats as required by the Habitats, Directive, Water Framework Directive and Marine Strategy Framework Directive (MSFD) and in line with the OSPAR Convention (Convention for the protection of the marine environment in the North- East Atlantic)",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "r2": {
+      "identity": 1157960566397040146,
+      "start": 95762,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157960566397040146",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n2": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1157960566397040146,
+      "start": 95762,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157960566397040146",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n1": {
+      "identity": 95821,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "National Biodiversity Action Plan 2017 - 2021",
+        "shortaction": "Achieve marine habitat protection targets",
+        "name": "5.1.2. Implement measures to achieve good ecological and environmental status of marine and coastal habitats as required by the Habitats, Directive, Water Framework Directive and Marine Strategy Framework Directive (MSFD) and in line with the OSPAR Convention (Convention for the protection of the marine environment in the North- East Atlantic)",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "r2": {
+      "identity": 1160212366210725395,
+      "start": 95763,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1160212366210725395",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95763",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n2": {
+      "identity": 95763,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "State Agencies and Local Authorities",
+        "name": "State Agencies and Local Authorities 004",
+        "stakeholder": "Local Authorities",
+        "norm": "stateagenciesandlocalauthorities004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95763"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1157960566397040146,
+      "start": 95762,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157960566397040146",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n1": {
+      "identity": 95821,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "National Biodiversity Action Plan 2017 - 2021",
+        "shortaction": "Achieve marine habitat protection targets",
+        "name": "5.1.2. Implement measures to achieve good ecological and environmental status of marine and coastal habitats as required by the Habitats, Directive, Water Framework Directive and Marine Strategy Framework Directive (MSFD) and in line with the OSPAR Convention (Convention for the protection of the marine environment in the North- East Atlantic)",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "r2": {
+      "identity": 1160212366210725399,
+      "start": 95767,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1160212366210725399",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95767",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n2": {
+      "identity": 95767,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 046",
+        "stakeholder": "Inland Fisheries Ireland",
+        "norm": "researchandregulatory046"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95767"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1157960566397040146,
+      "start": 95762,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157960566397040146",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n1": {
+      "identity": 95821,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "National Biodiversity Action Plan 2017 - 2021",
+        "shortaction": "Achieve marine habitat protection targets",
+        "name": "5.1.2. Implement measures to achieve good ecological and environmental status of marine and coastal habitats as required by the Habitats, Directive, Water Framework Directive and Marine Strategy Framework Directive (MSFD) and in line with the OSPAR Convention (Convention for the protection of the marine environment in the North- East Atlantic)",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "r2": {
+      "identity": 1157960566397040155,
+      "start": 95771,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157960566397040155",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95771",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n2": {
+      "identity": 95771,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Department of Environment, Climate and Communications",
+        "name": "Department of Environment, Climate and Communications 004",
+        "stakeholder": "Department of Environment, Climate and Communications",
+        "norm": "departmentofenvironment,climateandcommunications004"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95771"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1157960566397040146,
+      "start": 95762,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157960566397040146",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n1": {
+      "identity": 95821,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "National Biodiversity Action Plan 2017 - 2021",
+        "shortaction": "Achieve marine habitat protection targets",
+        "name": "5.1.2. Implement measures to achieve good ecological and environmental status of marine and coastal habitats as required by the Habitats, Directive, Water Framework Directive and Marine Strategy Framework Directive (MSFD) and in line with the OSPAR Convention (Convention for the protection of the marine environment in the North- East Atlantic)",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "r2": {
+      "identity": 1160212366210725405,
+      "start": 95773,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1160212366210725405",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95773",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n2": {
+      "identity": 95773,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "State Agencies",
+        "name": "State Agencies  001",
+        "stakeholder": "Environmental Protection Agency",
+        "norm": "stateagencies001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95773"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1157960566397040146,
+      "start": 95762,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157960566397040146",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n1": {
+      "identity": 95821,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "National Biodiversity Action Plan 2017 - 2021",
+        "shortaction": "Achieve marine habitat protection targets",
+        "name": "5.1.2. Implement measures to achieve good ecological and environmental status of marine and coastal habitats as required by the Habitats, Directive, Water Framework Directive and Marine Strategy Framework Directive (MSFD) and in line with the OSPAR Convention (Convention for the protection of the marine environment in the North- East Atlantic)",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "r2": {
+      "identity": 1155708766583354910,
+      "start": 95774,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1155708766583354910",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95774",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n2": {
+      "identity": 95774,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Research and Regulatory",
+        "name": "Research and Regulatory 054",
+        "stakeholder": "Marine Institute",
+        "norm": "researchandregulatory054"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95774"
+    }
+  },
+  {
+    "l": {
+      "identity": 95762,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 015",
+        "stakeholder": "Uisce Éireann",
+        "norm": "semistateagency015"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762"
+    },
+    "r1": {
+      "identity": 1157960566397040146,
+      "start": 95762,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1157960566397040146",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95762",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n1": {
+      "identity": 95821,
+      "labels": [
+        "UG_AP_ACTIONS"
+      ],
+      "properties": {
+        "fileName": "National Biodiversity Action Plan 2017 - 2021",
+        "shortaction": "Achieve marine habitat protection targets",
+        "name": "5.1.2. Implement measures to achieve good ecological and environmental status of marine and coastal habitats as required by the Habitats, Directive, Water Framework Directive and Marine Strategy Framework Directive (MSFD) and in line with the OSPAR Convention (Convention for the protection of the marine environment in the North- East Atlantic)",
+        "topic": "water"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "r2": {
+      "identity": 1153456966769669663,
+      "start": 95775,
+      "end": 95821,
+      "type": "UG_LABEL_HAS_ACTION_AP",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:1153456966769669663",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95775",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95821"
+    },
+    "n2": {
+      "identity": 95775,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "NGO",
+        "name": "NGO 002",
+        "stakeholder": "An Taisce The National Trust for Ireland",
+        "norm": "ngo002"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95775"
+    }
+  }
+]

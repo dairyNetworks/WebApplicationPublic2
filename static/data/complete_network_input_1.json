@@ -1,0 +1,485 @@
+﻿[
+  {
+    "l": {
+      "identity": 68123,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 001",
+        "stakeholder": "AgNav Platform",
+        "norm": "inputs001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123"
+    },
+    "r1": {
+      "identity": 6918067788338760757,
+      "start": 68123,
+      "end": 68661,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760757",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68661"
+    },
+    "n1": {
+      "identity": 68661,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "Develop a Dynamic Knowledge Exchange Environment",
+        "name": "The Signpost and Advisory Programmes",
+        "topic": "carbon",
+        "action": "MISSION 4 GOAL 3 ACTION 3",
+        "actionstatement": "Strengthen primary producer  advisory and extension services to  cover environmental and climate  performance, innovation and  digitalisation, as well as agronomic,  animal health and welfare, technical  and financial aspects.",
+        "source": "Food Vision Report",
+        "reportsummary": "The AgNav platform is a key enabler used by advisors to support farmers in benchmarking GHG emissions and planning actions within the Signpost and Advisory Programmes."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68661"
+    },
+    "r2": {
+      "identity": 6918067788338760757,
+      "start": 68123,
+      "end": 68661,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760757",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68661"
+    },
+    "n2": {
+      "identity": 68123,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 001",
+        "stakeholder": "AgNav Platform",
+        "norm": "inputs001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123"
+    }
+  },
+  {
+    "l": {
+      "identity": 68123,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 001",
+        "stakeholder": "AgNav Platform",
+        "norm": "inputs001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123"
+    },
+    "r1": {
+      "identity": 6918067788338760762,
+      "start": 68123,
+      "end": 68666,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760762",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68666"
+    },
+    "n1": {
+      "identity": 68666,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "Develop a Dynamic Knowledge Exchange Environment",
+        "name": "The Signpost and Advisory Programmes",
+        "topic": "carbon",
+        "action": "MISSION 4 GOAL 3 ACTION 3",
+        "actionstatement": "Strengthen primary producer  advisory and extension services to  cover environmental and climate  performance, innovation and  digitalisation, as well as agronomic,  animal health and welfare, technical  and financial aspects.",
+        "source": "Food Vision Report",
+        "reportsummary": "The AgNav platform is actively involved in the programme by enabling advisors to benchmark GHG emissions and record planned actions with farmers."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68666"
+    },
+    "r2": {
+      "identity": 6918067788338760762,
+      "start": 68123,
+      "end": 68666,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760762",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68666"
+    },
+    "n2": {
+      "identity": 68123,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 001",
+        "stakeholder": "AgNav Platform",
+        "norm": "inputs001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123"
+    }
+  },
+  {
+    "l": {
+      "identity": 68123,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 001",
+        "stakeholder": "AgNav Platform",
+        "norm": "inputs001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123"
+    },
+    "r1": {
+      "identity": 6924823187779816508,
+      "start": 68123,
+      "end": 68668,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6924823187779816508",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "n1": {
+      "identity": 68668,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "Develop a Dynamic Knowledge Exchange Environment",
+        "name": "The Signpost and Advisory Programmes",
+        "topic": "carbon",
+        "action": "MISSION 4 GOAL 3 ACTION 3",
+        "actionstatement": "Strengthen primary producer  advisory and extension services to  cover environmental and climate  performance, innovation and  digitalisation, as well as agronomic,  animal health and welfare, technical  and financial aspects.",
+        "source": "Food Vision Report",
+        "reportsummary": "Teagasc is the lead body implementing the Signpost Programme and the Signpost Advisory Programme."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "r2": {
+      "identity": 6922571387966131260,
+      "start": 2372,
+      "end": 68668,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6922571387966131260",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2372",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "n2": {
+      "identity": 2372,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 010",
+        "stakeholder": "SignPost Farm Programme",
+        "norm": "semistateagency010"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2372"
+    }
+  },
+  {
+    "l": {
+      "identity": 68123,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 001",
+        "stakeholder": "AgNav Platform",
+        "norm": "inputs001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123"
+    },
+    "r1": {
+      "identity": 6924823187779816508,
+      "start": 68123,
+      "end": 68668,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6924823187779816508",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "n1": {
+      "identity": 68668,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "Develop a Dynamic Knowledge Exchange Environment",
+        "name": "The Signpost and Advisory Programmes",
+        "topic": "carbon",
+        "action": "MISSION 4 GOAL 3 ACTION 3",
+        "actionstatement": "Strengthen primary producer  advisory and extension services to  cover environmental and climate  performance, innovation and  digitalisation, as well as agronomic,  animal health and welfare, technical  and financial aspects.",
+        "source": "Food Vision Report",
+        "reportsummary": "Teagasc is the lead body implementing the Signpost Programme and the Signpost Advisory Programme."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "r2": {
+      "identity": 6927074987593501756,
+      "start": 2585,
+      "end": 68668,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6927074987593501756",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2585",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "n2": {
+      "identity": 2585,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 008",
+        "stakeholder": "Demonstration Farms",
+        "norm": "inputs008"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:2585"
+    }
+  },
+  {
+    "l": {
+      "identity": 68123,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 001",
+        "stakeholder": "AgNav Platform",
+        "norm": "inputs001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123"
+    },
+    "r1": {
+      "identity": 6924823187779816508,
+      "start": 68123,
+      "end": 68668,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6924823187779816508",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "n1": {
+      "identity": 68668,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "Develop a Dynamic Knowledge Exchange Environment",
+        "name": "The Signpost and Advisory Programmes",
+        "topic": "carbon",
+        "action": "MISSION 4 GOAL 3 ACTION 3",
+        "actionstatement": "Strengthen primary producer  advisory and extension services to  cover environmental and climate  performance, innovation and  digitalisation, as well as agronomic,  animal health and welfare, technical  and financial aspects.",
+        "source": "Food Vision Report",
+        "reportsummary": "Teagasc is the lead body implementing the Signpost Programme and the Signpost Advisory Programme."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "r2": {
+      "identity": 6920319588152446012,
+      "start": 68121,
+      "end": 68668,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6920319588152446012",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68121",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "n2": {
+      "identity": 68121,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Producers",
+        "name": "Producers 026",
+        "stakeholder": "Signpost Farmers",
+        "norm": "producers026"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68121"
+    }
+  },
+  {
+    "l": {
+      "identity": 68123,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 001",
+        "stakeholder": "AgNav Platform",
+        "norm": "inputs001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123"
+    },
+    "r1": {
+      "identity": 6924823187779816508,
+      "start": 68123,
+      "end": 68668,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6924823187779816508",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "n1": {
+      "identity": 68668,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "Develop a Dynamic Knowledge Exchange Environment",
+        "name": "The Signpost and Advisory Programmes",
+        "topic": "carbon",
+        "action": "MISSION 4 GOAL 3 ACTION 3",
+        "actionstatement": "Strengthen primary producer  advisory and extension services to  cover environmental and climate  performance, innovation and  digitalisation, as well as agronomic,  animal health and welfare, technical  and financial aspects.",
+        "source": "Food Vision Report",
+        "reportsummary": "Teagasc is the lead body implementing the Signpost Programme and the Signpost Advisory Programme."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "r2": {
+      "identity": 6924823187779816508,
+      "start": 68123,
+      "end": 68668,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6924823187779816508",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "n2": {
+      "identity": 68123,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 001",
+        "stakeholder": "AgNav Platform",
+        "norm": "inputs001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123"
+    }
+  },
+  {
+    "l": {
+      "identity": 68123,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Inputs",
+        "name": "Inputs 001",
+        "stakeholder": "AgNav Platform",
+        "norm": "inputs001"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123"
+    },
+    "r1": {
+      "identity": 6924823187779816508,
+      "start": 68123,
+      "end": 68668,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6924823187779816508",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68123",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "n1": {
+      "identity": 68668,
+      "labels": [
+        "UG_FVR_PROGRAMME"
+      ],
+      "properties": {
+        "mission": "An Innovative,  Competitive &  Resilient Agri-Food  Sector, Driven by  Technology and  Talent",
+        "goal": "Develop a Dynamic Knowledge Exchange Environment",
+        "name": "The Signpost and Advisory Programmes",
+        "topic": "carbon",
+        "action": "MISSION 4 GOAL 3 ACTION 3",
+        "actionstatement": "Strengthen primary producer  advisory and extension services to  cover environmental and climate  performance, innovation and  digitalisation, as well as agronomic,  animal health and welfare, technical  and financial aspects.",
+        "source": "Food Vision Report",
+        "reportsummary": "Teagasc is the lead body implementing the Signpost Programme and the Signpost Advisory Programme."
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "r2": {
+      "identity": 6918067788338760764,
+      "start": 95758,
+      "end": 68668,
+      "type": "UG_LABEL_PROGRAMME_FVR",
+      "properties": {
+
+      },
+      "elementId": "5:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:6918067788338760764",
+      "startNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95758",
+      "endNodeElementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:68668"
+    },
+    "n2": {
+      "identity": 95758,
+      "labels": [
+        "UG_LABELS"
+      ],
+      "properties": {
+        "cat": "Semi-state agency",
+        "name": "Semi-state agency 012",
+        "stakeholder": "Teagasc The Agriculture and Food Development Authority",
+        "norm": "semistateagency012"
+      },
+      "elementId": "4:44b5410f-69d7-42ba-aa0a-c5f6ed9dacd1:95758"
+    }
+  }
+]
