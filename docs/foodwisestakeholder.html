@@ -1,0 +1,379 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Action Plan Stakeholders</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+
+    <style>
+        table {
+            width: 95%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 5rem;
+        }
+
+        thead {
+            background-color: rgba(255, 255, 255, 0.5);
+            backdrop-filter: blur(10px);
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: center;
+            font-size: 16px;
+            text-align: justify;
+        }
+
+        th {
+            color: #555;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-bottom: 2px solid #ddd;
+            text-align: center;
+            font-size: 15px;
+        }
+
+        tbody tr:nth-child(even) {
+            background-color: rgba(255, 255, 255, 0.7);
+        }
+
+        tbody tr:nth-child(odd) {
+            background-color: rgba(255, 255, 255, 0.9);
+        }
+
+        tbody tr:hover {
+            background-color: rgba(200, 230, 255, 0.9);
+        }
+
+        td {
+            color: #333;
+            font-size: 14px;
+            text-align: justify;
+        }
+
+        .highlight {
+            background-color: yellow;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <a id="homeLink" href="/index" class="home-link">
+            <img src="/static/images/icon.jpg" alt="Home" class="home-icon">
+    </a>
+    <div class="buttons">
+            <a id="docBtn" class="btn">Explore Documents</a>
+    </div>
+    
+    <div class="networkquerysection2" id="graph-container" style="width: 100%; height: 600px; margin-top: 20px;">
+
+        <script>
+            const urlParams = new URLSearchParams(window.location.search);
+            const query = urlParams.get('query');
+            const formalStakeholder = urlParams.get('formalStakeholder');
+            const accessLevel = urlParams.get("access");
+
+            document.getElementById("docBtn").href = `/search?access=${accessLevel}`;
+            console.log("Query:", query);
+            console.log("formalStakeholder:", formalStakeholder);
+
+            if (homeLink) { homeLink.href = `/index?access=${accessLevel}`;}
+      
+      
+            // Fetch and render the table using the received parameters
+            fetch(`/get_fwstakeholder_plan?query=${query}&formalStakeholder=${formalStakeholder}&access=${accessLevel}`)
+                .then(response => response.json())
+                .then(data => {
+                    console.log("API Response Data:", data);  // For debugging
+
+                    // Ensure the data contains the table array
+                    if (data.table && data.table.length > 0) {
+                        renderTable(data.table);
+                    } else {
+                        document.getElementById("table-container").innerHTML = "<p>No data to display in table.</p>";
+                    }
+                })
+                .catch(error => {
+                    console.error("Error fetching table data:", error);
+                    document.getElementById("table-container").innerHTML = "<p>Error loading data.</p>";
+            });
+
+            fetch(`/get_fwstakeholder_plan_network?query=${query}&formalStakeholder=${formalStakeholder}&access=${accessLevel}`)
+                .then(response => response.json())
+                .then(data => {
+                    console.log("✅ Raw API Data:", data);
+
+                    // Handle both {graph: {nodes, links}} and {graph: {graph: {nodes, links}}}
+                    const graphData = data.graph?.graph || data.graph;
+
+                    console.log("📦 Nodes:", graphData?.nodes);
+                    console.log("🔗 Links:", graphData?.links);
+
+                    if (graphData && graphData.nodes && graphData.links) {
+                        document.getElementById("graph-container").innerHTML = "";
+                        renderGraph(graphData);
+                    } else {
+                        document.getElementById("graph-container").innerHTML = "<p>No graph data available.</p>";
+                    }
+                })
+                .catch(error => {
+                    console.error("❌ Error fetching network graph:", error);
+                    document.getElementById("graph-container").innerHTML = "<p>Error loading graph data.</p>";
+                });
+
+            function createLegend(svg, width, accessLevel) {
+                const legendData = [
+                    { label: "Recommendation", color: "#9799ba" },
+                    { label: "Action", color: "#bc85a3"},
+                    { label: "Stakeholder", color: "#feadb9" }
+                ];
+
+                const legendGroup = svg.append("g")
+                    .attr("class", "legend-group")
+                    .attr("transform", `translate(${width - 250}, 60)`); // move down for spacing
+
+                legendGroup.selectAll("rect")
+                    .data(legendData)
+                    .enter()
+                    .append("rect")
+                    .attr("x", 0)
+                    .attr("y", (d, i) => i * 25)
+                    .attr("width", 18)
+                    .attr("height", 18)
+                    .style("fill", d => d.color);
+
+                legendGroup.selectAll("text")
+                    .data(legendData)
+                    .enter()
+                    .append("text")
+                    .attr("x", 25)
+                    .attr("y", (d, i) => i * 25 + 13)
+                    .text(d => d.label)
+                    .style("font-size", "13px")
+                    .style("fill", "#333");
+                }
+
+            function renderGraph(graphData) {
+                const width = document.getElementById('graph-container').clientWidth;
+                const height = document.getElementById('graph-container').clientHeight;
+
+                // Clear previous content
+                d3.select("#graph-container").selectAll("*").remove();
+
+                // Convert link source/target from IDs to node objects
+                const nodeById = new Map(graphData.nodes.map(node => [node.id, node]));
+                graphData.links = graphData.links.map(link => ({
+                    ...link,
+                    source: nodeById.get(link.source),
+                    target: nodeById.get(link.target)
+                }));
+
+                // Create the SVG container
+                const svg = d3.select("#graph-container")
+                    .append("svg")
+                    .attr("width", width)
+                    .attr("height", height);
+
+                const zoomGroup = svg.append("g");
+
+                const zoom = d3.zoom()
+                    .scaleExtent([0.1, 4])
+                    .on("zoom", function (event) {
+                        zoomGroup.attr("transform", event.transform);
+                    });
+                svg.call(zoom);
+                createLegend(svg, width, accessLevel);
+
+                // Draw links
+                const link = zoomGroup.append("g")
+                    .selectAll(".link")
+                    .data(graphData.links)
+                    .enter().append("line")
+                    .attr("class", "link")
+                    .attr("stroke", "#999")
+                    .attr("stroke-opacity", 0.6)
+                    .attr("stroke-width", 2);
+
+                // Draw nodes
+                const node = zoomGroup.append("g")
+                    .selectAll(".node")
+                    .data(graphData.nodes)
+                    .enter().append("circle")
+                    .attr("class", "node")
+                    .attr("r", 20)
+                    .attr("fill", d => {
+                        switch (d.type) {
+                            case "Stakeholder":
+                                return "#feadb9";
+                            case "Recommendation":
+                                return "#9799ba";
+                            case "Action":
+                                return "#bc85a3";
+                            default:
+                                return "#cccccc";
+                        }
+                    })
+                    .attr("stroke", "#2980b9")
+                    .attr("stroke-width", 2)
+                    .call(d3.drag()
+                        .on("start", dragstarted)
+                        .on("drag", dragged)
+                        .on("end", dragended));
+
+                // Tooltip on hover
+                node.append("title").text(d => d.fullLabel);
+
+                // Node labels
+                const nodeLabels = zoomGroup.append("g")
+                    .selectAll(".node-label")
+                    .data(graphData.nodes)
+                    .enter().append("text")
+                    .attr("class", "node-label")
+                    .attr("dx", 12)
+                    .attr("dy", ".35em")
+                    .text(d => d.label)   // short label here
+                    .style("font-size", "12px")
+                    .style("fill", "#333");
+
+                // Link labels
+                //const linkLabels = zoomGroup.append("g")
+                  //  .selectAll(".link-label")
+                  //  .data(graphData.links)
+                  //  .enter().append("text")
+                  //  .attr("class", "link-label")
+                  //  .attr("dx", 5)
+                  //  .attr("dy", ".35em")
+                  //  .text(d => d.type)
+                  //  .style("font-size", "10px")
+                  //  .style("fill", "#666");
+
+                const simulation = d3.forceSimulation(graphData.nodes)
+                    .force("link", d3.forceLink(graphData.links).id(d => d.id).distance(150))
+                    .force("charge", d3.forceManyBody().strength(-300))
+                    .force("center", d3.forceCenter(width / 2, height / 2));
+
+                simulation.on("tick", () => {
+                    node
+                        .attr("cx", d => d.x)
+                        .attr("cy", d => d.y);
+
+                    link
+                        .attr("x1", d => d.source.x)
+                        .attr("y1", d => d.source.y)
+                        .attr("x2", d => d.target.x)
+                        .attr("y2", d => d.target.y);
+
+                    nodeLabels
+                        .attr("x", d => d.x)
+                        .attr("y", d => d.y);
+
+                    //linkLabels
+                    //    .attr("x", d => (d.source.x + d.target.x) / 2)
+                    //    .attr("y", d => (d.source.y + d.target.y) / 2);
+                });
+
+                function dragstarted(event) {
+                    if (!event.active) simulation.alphaTarget(0.3).restart();
+                    event.subject.fx = event.subject.x;
+                    event.subject.fy = event.subject.y;
+                }
+
+                function dragged(event) {
+                    event.subject.fx = event.x;
+                    event.subject.fy = event.y;
+                }
+
+                function dragended(event) {
+                    if (!event.active) simulation.alphaTarget(0);
+                    event.subject.fx = null;
+                    event.subject.fy = null;
+                }
+            }
+
+            function renderTable(data) {
+                const container = document.getElementById("table-container");
+                container.innerHTML = "";  // Clear old content
+
+                if (data.length === 0) {
+                    container.innerHTML = "<p>No data to display in table.</p>";
+                    return;
+                }
+
+                const wrapper = document.createElement("div");
+                wrapper.style.padding = "20px 40px 60px 40px";
+
+                const table = document.createElement("table");
+                table.classList.add("table", "table-striped", "table-hover");
+                table.style.width = "95%";
+                table.style.margin = "20px auto";
+                table.style.borderCollapse = "collapse";
+                table.style.borderRadius = "10px";
+                table.style.overflow = "hidden";
+                table.style.boxShadow = "0 4px 6px rgba(0, 0, 0, 0.1)";
+                table.style.fontSize = "13px"; // Reduced font size
+
+                // Create table headers
+                const headers = Object.keys(data[0]);
+                const thead = document.createElement("thead");
+                thead.style.backgroundColor = "rgba(255, 255, 255, 0.5)";
+                thead.style.backdropFilter = "blur(10px)";
+                
+                const headerRow = document.createElement("tr");
+
+                headers.forEach(header => {
+                    const th = document.createElement("th");
+                    th.textContent = header;
+                    th.style.padding = "12px";
+                    th.style.textAlign = "center";
+                    th.style.color = "#555";
+                    th.style.fontWeight = "bold";
+                    th.style.textTransform = "uppercase";
+                    th.style.borderBottom = "2px solid #ddd";
+                    headerRow.appendChild(th);
+                });
+                thead.appendChild(headerRow);
+                table.appendChild(thead);
+
+                // Create table body
+                const tbody = document.createElement("tbody");
+                data.forEach((row, index) => {
+                    const tr = document.createElement("tr");
+                    tr.style.backgroundColor = index % 2 === 0 ? "rgba(255, 255, 255, 0.7)" : "rgba(255, 255, 255, 0.9)";
+                    tr.addEventListener("mouseover", () => {
+                        tr.style.backgroundColor = "rgba(200, 230, 255, 0.9)";
+                    });
+                    tr.addEventListener("mouseout", () => {
+                        tr.style.backgroundColor = index % 2 === 0 ? "rgba(255, 255, 255, 0.7)" : "rgba(255, 255, 255, 0.9)";
+                    });
+
+                    headers.forEach(header => {
+                        const td = document.createElement("td");
+                        td.textContent = row[header];
+                        td.style.padding = "12px";
+                        td.style.textAlign = "justify";
+                        td.style.color = "#333";
+                        td.style.fontSize = "13px";
+                        tr.appendChild(td);
+                    });
+                    tbody.appendChild(tr);
+                });
+
+                table.appendChild(tbody);
+                wrapper.appendChild(table);
+                container.appendChild(wrapper);
+            }
+        </script>
+
+    </div>
+
+    <div id="table-container" style="margin-bottom: 20px;"></div>
+</body>
+</html>

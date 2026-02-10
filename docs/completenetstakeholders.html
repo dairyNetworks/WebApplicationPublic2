@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Complete Network</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <style>
+    table {
+      width: 70%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    thead {
+      background-color: rgba(255, 255, 255, 0.5);
+      backdrop-filter: blur(10px);
+    }
+    th, td {
+      padding: 25px;
+      text-align: center;
+      font-size: 12px;
+    }
+    th {
+      color: #555;
+      font-weight: bold;
+      text-transform: uppercase;
+      border-bottom: 2px solid #ddd;
+    }
+    tbody tr:nth-child(even) {
+      background-color: rgba(255, 255, 255, 0.7);
+    }
+    tbody tr:nth-child(odd) {
+      background-color: rgba(255, 255, 255, 0.9);
+    }
+    tbody tr:hover {
+      background-color: rgba(200, 230, 255, 0.9);
+    }
+    td {
+      color: #333;
+      font-size: 10px;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <a id="homeLink" href="/index" class="home-link">
+    <img src="/static/images/icon.jpg" alt="Home" class="home-icon">
+  </a>
+  <div class="buttons">
+    <a id="btnStakeholderMapping" href="/stakeholdermapping" class="btn">Stakeholder Mapping</a>
+    <a id="btnSentimentStats" href="/sentimentstats" class="btn">Sentiment Analysis</a>
+    <a id="btnActionQuery" href="/actionquery" class="btn">Action Plans by Actions</a>
+    <a id="guideLink" href="/manual" target="_blank" class="guide-link">
+      <img src="/static/images/user guide2.jpg" alt="User Guide" class="guide-icon">
+    </a>
+            <!--<a href="/" class="login-image-button">-->
+                <!--<img src="/static/images/user login.jpg" alt="Login" class="login-icon">-->
+            <!--</a>-->
+  </div>
+
+  <div class="networkquerysection1">
+    <form id="tableForm">
+      <label for="query">Complete Network for Stakeholders</label>
+      <select id="query" name="query"></select>
+      <div class="button-row">
+        <button type="button" id="viewNetworkButton">View Network</button>
+      </div>
+    </form>
+  </div>
+
+  <div id="tables-container"></div>
+
+  <script>
+  const readableTopics = {
+    carbon: "Complete network for Stakeholder regarding carbon in dairy?",
+    water: "Complete network for Stakeholder regarding water in dairy?",
+    live: "Complete network for Stakeholder regarding livelihood in dairy?"
+  };
+
+  const topicCodes = {
+    carbon: "car",
+    water: "wat",
+    live: "liv"
+  };
+
+  window.addEventListener("DOMContentLoaded", () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const label = urlParams.get("label");
+    const accessLevel = urlParams.get("accessLevel");
+    const rawTopicString = urlParams.get("topics");
+
+    const querySelect = document.getElementById("query");
+    const viewButton = document.getElementById("viewNetworkButton");
+
+    if (!label) {
+      alert("Missing stakeholder label in URL.");
+      viewButton.style.display = "none";
+      return;
+    }
+
+    if (!rawTopicString) {
+      console.warn("No topics in URL");
+      viewButton.style.display = "none";
+      querySelect.innerHTML = `<option disabled>No topics available</option>`;
+      return;
+    }
+
+    // Decode URL-encoded string (e.g., %5B%5D → [])
+    let decoded = decodeURIComponent(rawTopicString);
+
+    // If topic list is empty (i.e., "[]"), exit early
+    if (decoded === "[]" || decoded.trim() === "") {
+      console.warn("Empty or invalid topic list");
+      viewButton.style.display = "none";
+      querySelect.innerHTML = `<option disabled>No topics available</option>`;
+      return;
+    }
+
+    // Clean and parse topics
+    let cleaned = decoded.replace(/[\[\]'" ]/g, "");  // remove brackets, quotes, spaces
+    let parsedTopics = cleaned.split(",").filter(t => t && t.toLowerCase() !== "nan");
+
+    querySelect.innerHTML = "";
+
+    parsedTopics.forEach(topic => {
+      topic = topic.toLowerCase();
+      if (readableTopics[topic]) {
+        const option = document.createElement("option");
+        option.value = topicCodes[topic];
+        option.textContent = readableTopics[topic];
+        querySelect.appendChild(option);
+      }
+    });
+
+    if (querySelect.options.length === 0) {
+      viewButton.style.display = "none";
+      querySelect.innerHTML = `<option disabled>No valid topics found</option>`;
+      return;
+    }
+
+    // View button click
+    viewButton.addEventListener("click", () => {
+      const query = querySelect.value;
+      const graphUrl = `/get_complete_network_graph.html?access=${encodeURIComponent(accessLevel)}&label=${encodeURIComponent(label)}&query=${encodeURIComponent(query)}`;
+      window.open(graphUrl, "_blank");
+
+      fetch(`/get_complete_network_table?label=${encodeURIComponent(label)}&query=${encodeURIComponent(query)}`)
+        .then(response => response.json())
+        .then(data => {
+          const container = document.getElementById("tables-container");
+          container.innerHTML = "";
+
+          const tables = data.tables;
+          for (const [title, rows] of Object.entries(tables)) {
+            if (!rows.length) continue;
+
+            const table = document.createElement("table");
+            const thead = document.createElement("thead");
+            const tbody = document.createElement("tbody");
+
+            const headers = Object.keys(rows[0]);
+            const headRow = document.createElement("tr");
+            headers.forEach(header => {
+              const th = document.createElement("th");
+              th.textContent = header.toUpperCase();
+              headRow.appendChild(th);
+            });
+            thead.appendChild(headRow);
+
+            rows.forEach(row => {
+              const tr = document.createElement("tr");
+              headers.forEach(header => {
+                const td = document.createElement("td");
+                td.textContent = row[header];
+                tr.appendChild(td);
+              });
+              tbody.appendChild(tr);
+            });
+
+            const titleHeading = document.createElement("h3");
+            titleHeading.style.textAlign = "center";
+            titleHeading.textContent = `${title.replace(/_/g, " ")} (${rows.length} rows)`;
+            container.appendChild(titleHeading);
+
+            table.appendChild(thead);
+            table.appendChild(tbody);
+            container.appendChild(table);
+          }
+        })
+        .catch(err => {
+          document.getElementById("tables-container").innerHTML = `<p>Error loading tables: ${err.message}</p>`;
+        });
+
+      if (accessLevel && document.getElementById("homeLink")) {
+        document.getElementById("homeLink").href = `/index?access=${accessLevel}`;
+      }
+    });
+  });
+</script>
+
+</body>
+</html>

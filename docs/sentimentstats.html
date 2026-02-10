@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Stakeholder Sentiment Analysis</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+        table {
+            width: 95%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 5rem;
+        }
+
+        thead {
+            background-color: rgba(255, 255, 255, 0.5);
+            backdrop-filter: blur(10px);
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: center;
+            font-size: 16px;
+            text-align: justify;
+        }
+
+        th {
+            color: #555;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-bottom: 2px solid #ddd;
+            text-align: center;
+            font-size: 15px;
+        }
+
+        tbody tr:nth-child(even) {
+            background-color: rgba(255, 255, 255, 0.7);
+        }
+
+        tbody tr:nth-child(odd) {
+            background-color: rgba(255, 255, 255, 0.9);
+        }
+
+        tbody tr:hover {
+            background-color: rgba(200, 230, 255, 0.9);
+        }
+
+        td {
+            color: #333;
+            font-size: 14px;
+            text-align: justify;
+        }
+
+        .highlight {
+            background-color: yellow;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+  <a id="homeLink" href="/index" class="home-link">
+            <img src="/static/images/icon.jpg" alt="Home" class="home-icon">
+    </a>
+  <div class="buttons">
+    <a id ="btnStakeholderMapping" href="/stakeholdermapping" class="btn">Stakeholder Mapping</a>
+    <a id="btnActionStakeholder" href="/actionstakeholder" class="btn">Action Plans for Stakeholders</a>
+    <a id="btnActionQuery" href="/actionquery" class="btn">Action Plans by Actions</a>
+    <a id="guideLink" href="/manual" target="_blank" class="guide-link">
+      <img src="/static/images/user guide2.jpg" alt="User Guide" class="guide-icon">
+    </a>
+            <!--<a href="/" class="login-image-button">-->
+                <!--<img src="/static/images/user login.jpg" alt="Login" class="login-icon">-->
+            <!--</a>-->
+  </div>
+  <div class="networkquerysection1">
+    <form id="tableForm">
+      <label for="query">Search Stakeholder Sentiment</label>
+      <select id="query" name="query">
+        <option value="car">What stakeholders are the responses of stakeholders regarding carbon in dairy?</option>
+        <option value="wat">What are the responses of stakeholders regarding water in dairy?</option>
+        <option value="liv">What are the responses of stakeholders regarding livelihood in dairy?</option>
+      </select>
+  
+      <div class="button-row">
+        <button type="button" onclick="fetchCountStats()">View Count</button>
+      </div>
+    </form>
+  </div>
+  
+  <div class="networkquerysection2" id="graph-container" style="width: 100%; height: 600px; margin-top: 20px;">
+
+    <script>
+          const urlParams = new URLSearchParams(window.location.search);
+          const accessLevel = urlParams.get("access");
+          if (homeLink) { homeLink.href = `/index?access=${accessLevel}`;}
+          if (accessLevel) {
+              document.getElementById("btnActionStakeholder").href = `/actionstakeholder?access=${accessLevel}`;
+              document.getElementById("btnStakeholderMapping").href = `/stakeholdermapping?access=${accessLevel}`;
+              document.getElementById("btnActionQuery").href = `/actionquery?access=${accessLevel}`;
+          }
+
+            function fetchCountStats() {
+              const query = document.getElementById("query").value.trim();
+              console.log("Access Level:", accessLevel);
+              console.log("Query:", query);
+
+              let fileMap = {};
+
+              if (accessLevel === 'levelone') {
+                  fileMap = {
+                      car: { bar: "/static/data/carbon_bar_chart.csv", donut: "/static/data/carbon_donut.csv" },
+                      wat: { bar: "/static/data/water_bar_chart.csv", donut: "/static/data/water_donut.csv" },
+                      liv: { bar: "/static/data/live_bar_chart.csv", donut: "/static/data/live_donut.csv" }
+                  };
+              } else if (accessLevel === 'leveltwo') {
+                  fileMap = {
+                      car: { bar: "/static/data/carbon_bar_chart2.csv", donut: "/static/data/carbon_donut2.csv" },
+                      wat: { bar: "/static/data/water_bar_chart2.csv", donut: "/static/data/water_donut2.csv" },
+                      liv: { bar: "/static/data/live_bar_chart2.csv", donut: "/static/data/live_donut2.csv" }
+                  };
+              }
+
+              if (!fileMap[query]) {
+                  console.error("Invalid query key:", query);
+                  d3.select("#graph-container").html("<p>Invalid topic selected. Please choose a valid one.</p>");
+                  return;
+              }
+
+              const barCsv = fileMap[query].bar;
+              const donutCsv = fileMap[query].donut;
+
+              d3.select("#graph-container").html(""); // Clear previous
+
+              Promise.all([
+                  d3.csv(barCsv, d3.autoType),
+                  d3.csv(donutCsv, d3.autoType)
+              ]).then(([barData, donutData]) => {
+                  barData.sort((a, b) => b.Support - a.Support);
+                  renderStackedBarChart(donutData);
+                  renderGroupedBarChart(barData);
+                  renderCategoryTable(barData, query);
+              }).catch(error => {
+                  console.error("Error loading CSV files:", error);
+                  d3.select("#graph-container").html("<p>Error loading data</p>");
+              });
+          }
+
+            function renderStackedBarChart(data) {
+              const margin = { top: 20, right: 20, bottom: 50, left: 60 },
+                    width = 500 - margin.left - margin.right,
+                    height = 400 - margin.top - margin.bottom;
+
+              const svg = d3.select("#graph-container")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", `translate(${margin.left},${margin.top})`);
+
+              // Data format expected: [{ Sentiment: "Support", count: 30 }, ...]
+              const x = d3.scaleBand()
+                .domain(["Sentiment"])
+                .range([0, width])
+                .padding(0.2);
+
+              const y = d3.scaleLinear()
+                .domain([0, d3.sum(data, d => d.count)])
+                .nice()
+                .range([height, 0]);
+
+              const color = d3.scaleOrdinal()
+                .domain(data.map(d => d.Sentiment))
+                .range(["#afd69b", "#ececa3", "#db605d"]);
+
+              let cumulative = 0;
+              svg.selectAll("rect")
+                .data(data)
+                .join("rect")
+                .attr("x", d => x("Sentiment"))
+                .attr("y", d => {
+                  const yVal = y(cumulative + d.count);
+                  cumulative += d.count;
+                  return yVal;
+                })
+                .attr("height", d => height - y(d.count))
+                .attr("width", x.bandwidth())
+                .attr("fill", d => color(d.Sentiment));
+
+              // Reset for text labels
+              cumulative = 0;
+              svg.selectAll("text")
+                .data(data)
+                .join("text")
+                .attr("x", d => x("Sentiment") + x.bandwidth() / 2)
+                .attr("y", d => {
+                  const yVal = y(cumulative + d.count / 2);
+                  cumulative += d.count;
+                  return yVal;
+                })
+                .attr("dy", "0.35em")
+                .attr("text-anchor", "middle")
+                .style("font-size", "12px")
+                .text(d => `${d.Sentiment} (${d.count})`);
+
+              svg.append("g")
+                .attr("transform", `translate(0,${height})`)
+                .call(d3.axisBottom(x).tickSize(0))
+                .selectAll("text")
+                .attr("transform", "rotate(0)");
+
+              svg.append("g")
+                .call(d3.axisLeft(y));
+
+              svg.append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("y", -margin.left + 35)
+                .attr("x", -height / 2)
+                .attr("dy", "-1.5em")
+                .style("text-anchor", "middle")
+                .style("font-size", "14px")
+                .text("Stakeholder Proportion (%)");
+
+            }
+
+        function renderGroupedBarChart(data) {
+          const sentiments = ["Neutral", "Oppose", "Support"];
+          const margin = {top: 20, right: 20, bottom: 100, left: 60},
+                width = 800 - margin.left - margin.right,
+                height = 400 - margin.top - margin.bottom;
+        
+          const svg = d3.select("#graph-container")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", `translate(${margin.left},${margin.top})`);
+        
+          const x0 = d3.scaleBand()
+            .domain(data.map(d => d.Category))
+            .range([0, width])
+            .padding(0.2);
+        
+          const x1 = d3.scaleBand()
+            .domain(sentiments)
+            .range([0, x0.bandwidth()])
+            .padding(0.05);
+        
+          const y = d3.scaleLinear()
+            .domain([0, d3.max(data, d => Math.max(d.Neutral || 0, d.Oppose || 0, d.Support || 0))])
+            .nice()
+            .range([height, 0]);
+        
+          const color = d3.scaleOrdinal()
+            .domain(sentiments)
+            .range(["#ececa3", "#db605d", "#afd69b"]);
+        
+          svg.append("g")
+            .selectAll("g")
+            .data(data)
+            .join("g")
+            .attr("transform", d => `translate(${x0(d.Category)},0)`)
+            .selectAll("rect")
+            .data(d => sentiments.map(sentiment => ({key: sentiment, value: d[sentiment]})))
+            .join("rect")
+            .attr("x", d => x1(d.key))
+            .attr("y", d => y(d.value))
+            .attr("width", x1.bandwidth())
+            .attr("height", d => height - y(d.value))
+            .attr("fill", d => color(d.key));
+        
+          svg.append("g")
+            .attr("transform", `translate(0,${height})`)
+            .call(d3.axisBottom(x0))
+            .selectAll("text")
+            .attr("transform", "rotate(45)")
+            .style("text-anchor", "start");
+        
+          svg.append("g")
+            .call(d3.axisLeft(y));
+        
+          const legend = svg.append("g")
+            .attr("transform", `translate(${width - 100},0)`);
+        
+          sentiments.forEach((sentiment, i) => {
+            legend.append("rect")
+              .attr("x", 0)
+              .attr("y", i * 20)
+              .attr("width", 12)
+              .attr("height", 12)
+              .attr("fill", color(sentiment));
+        
+            legend.append("text")
+              .attr("x", 20)
+              .attr("y", i * 20 + 10)
+              .text(sentiment)
+              .attr("alignment-baseline", "middle");
+          });
+        }
+
+        function renderCategoryTable(data, query) {
+          const container = d3.select("#table-container");
+          container.html("");  // Clear existing
+
+          const table = container.append("table")
+              .attr("class", "sentiment-table");
+
+          const thead = table.append("thead").append("tr");
+          thead.append("th").text("Category");
+          thead.append("th").text("Sentiment Distribution");
+
+          const tbody = table.append("tbody");
+
+          data.forEach(d => {
+              const total = d.Support + d.Oppose + d.Neutral;
+              const row = tbody.append("tr");
+              row.append("td").text(d.Category);
+
+              const barCell = row.append("td")
+                  .style("position", "relative");
+
+              // Create a wrapper div with gradient background
+              const bar = barCell.append("div")
+                  .style("position", "relative")
+                  .style("height", "25px")
+                  .style("width", "100%")
+                  .style("border", "1px solid #ccc")
+                  .style("border-radius", "5px")
+                  .style("overflow", "hidden")
+                  .style("background", () => {
+                      const supportPct = (d.Support / total) * 100;
+                      const opposePct = (d.Oppose / total) * 100;
+                      const neutralPct = 100 - supportPct - opposePct;
+
+                      return `linear-gradient(to right,
+                          #afd69b 0%, 
+                          #afd69b ${supportPct}%,
+                          #db605d ${supportPct}%,
+                          #db605d ${supportPct + opposePct}%,
+                          #ececa3 ${supportPct + opposePct}%,
+                          #ececa3 100%)`;
+                  });
+
+              // Define clickable transparent overlays for each sentiment
+              const sentiments = [
+                  { label: "Support", count: d.Support, color: "#afd69b" },
+                  { label: "Oppose", count: d.Oppose, color: "#db605d" },
+                  { label: "Neutral", count: d.Neutral, color: "#ececa3" }
+              ];
+
+              let offset = 0;
+
+              sentiments.forEach(s => {
+                  const widthPct = (s.count / total) * 100;
+
+                  bar.append("div")
+                      .style("position", "absolute")
+                      .style("left", `${offset}%`)
+                      .style("top", "0")
+                      .style("width", `${widthPct}%`)
+                      .style("height", "100%")
+                      .style("cursor", "pointer")
+                      .attr("title", `${s.label}: ${s.count}`)
+                      //.on("click", () => {
+                      //    const url = `/speakersentiment.html?query=${query}&category=${encodeURIComponent(d.Category)}&sentiment=${s.label}&access=${accessLevel}`;
+                      //    window.open(url, "_blank");
+                      //});
+                      .on("click",null);
+
+                  offset += widthPct;
+              });
+          });
+      }
+
+        </script>
+        
+
+  </div>
+
+
+  <div id="table-container" style="margin-bottom: 20px;"></div>
+
+</body>
+</html>

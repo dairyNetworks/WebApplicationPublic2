@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keyword Search</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body class="search-page">
+    <a id="homeLink" href="/index" class="home-link">
+        <img src="/static/images/icon.jpg" alt="Home" class="home-icon">
+    </a>
+    <div class="buttons">
+        <a id="networkBtn" href="/network" class="btn">Explore Networks</a>
+    </div>
+    <div class="container">
+        <h1>Search for Keywords</h1>
+        <div class="search-area">
+            <input type="text" id="searchInput" placeholder="Enter keywords..." />
+            <div class="search-buttons">
+                <button id="documentSearch">Search Documents</button>
+                <button id="speakerSearch">Search Speakers</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Get access level from URL
+        const urlParams = new URLSearchParams(window.location.search);
+        const accessLevel = urlParams.get("access");
+
+        if (accessLevel) {
+            document.getElementById("homeLink").href = `/index?access=${accessLevel}`;
+            document.getElementById("networkBtn").href = `/network?access=${accessLevel}`;
+        }
+        // Handle button clicks and include access level
+        document.getElementById('documentSearch').addEventListener('click', () => {
+            const keywords = document.getElementById('searchInput').value;
+            if (keywords.trim() === "") {
+                alert("Please enter some keywords to search.");
+                return;
+            }
+            window.location.href = `/search/document?keywords=${encodeURIComponent(keywords)}&access=${encodeURIComponent(accessLevel)}`;
+        });
+
+        document.getElementById('speakerSearch').addEventListener('click', () => {
+            const keywords = document.getElementById('searchInput').value;
+            if (keywords.trim() === "") {
+                alert("Please enter some keywords to search.");
+                return;
+            }
+            window.location.href = `/search/speaker?keywords=${encodeURIComponent(keywords)}&access=${encodeURIComponent(accessLevel)}`;
+        });
+    </script>
+</body>
+</html>

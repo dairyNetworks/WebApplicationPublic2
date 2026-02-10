@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speaker Search Results</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <style>
+        /* Table Styles */
+        table {
+            width: 95%; /* Adjusted to fit the container */
+            margin: 20px auto;
+            border-collapse: collapse;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        thead {
+            background-color: rgba(255, 255, 255, 0.5); /* Frosted glass effect */
+            backdrop-filter: blur(10px); /* Frosted background */
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: left;
+            font-size: 16px; /* Adjustable font */
+        }
+
+        th {
+            color: #555;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-bottom: 2px solid #ddd;
+        }
+
+        tbody tr:nth-child(even) {
+            background-color: rgba(255, 255, 255, 0.7); /* Frosted for even rows */
+        }
+
+        tbody tr:nth-child(odd) {
+            background-color: rgba(255, 255, 255, 0.9); /* Frosted for odd rows */
+        }
+
+        tbody tr:hover {
+            background-color: rgba(200, 230, 255, 0.9); /* Hover effect */
+        }
+
+        td {
+            color: #333;
+            font-size: 14px; /* Adjustable font */
+        }
+    </style>
+</head>
+<body class="search-page">
+    <a id="homeLink" href="/index" class="home-link">
+        <img src="/static/images/icon.jpg" alt="Home" class="home-icon">
+    </a>
+    <div class="buttons">
+            <a id="docBtn" class="btn">Back to Search</a>
+    </div>
+    <div class="result-container">
+        <h1>Speaker Search Results for "{{ search_keywords }}"</h1>
+
+        {% if results %}
+        <div class="table-container">
+            <table class="result-table">
+                <thead>
+                    <tr>
+                        <th>Year</th>
+                        <th>Organisation</th>
+                        <th>Designation</th>
+                         <!--<th>Region / Stakeholder Category</th>-->
+                        <th>Keywords</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in results %}
+                    <tr data-speaker="{{ row.Speaker }}">
+                        <td>{{ row.Sliding_year }}</td>
+                        <td>{{ row.Organisation }}</td>
+                        <td>{{ row.Designation }}</td>
+                         <!--<td>{{ row["Region or Stakeholder Category"] }}</td>-->
+                        <td>{{ row.Keywords }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <script>
+            const urlParams = new URLSearchParams(window.location.search);
+            const accessLevel = urlParams.get("access");
+
+            document.getElementById("docBtn").href = `/search?access=${accessLevel}`;
+            
+            if (homeLink) {
+                homeLink.href = `/index?access=${accessLevel}`;
+            }
+            // Event delegation for double-click functionality
+            document.querySelector(".result-table tbody").addEventListener("dblclick", function (event) {
+                const row = event.target.closest("tr");
+                if (row) {
+                    const speaker = row.getAttribute("data-speaker");
+                    if (speaker) {
+                        const encodedKeywords = encodeURIComponent("{{ search_keywords }}");
+                        const encodedSpeaker = encodeURIComponent(speaker);
+                        window.location.href = `/speaker/details?keywords=${encodedKeywords}&speaker=${encodedSpeaker}`;
+                    } else {
+                        console.error("Speaker attribute not found in the clicked row.");
+                    }
+                }
+            });
+        </script>
+        {% else %}
+        <p>No results found for the entered keywords.</p>
+        {% endif %}
+    </div>
+</body>
+</html>

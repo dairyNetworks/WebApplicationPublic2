@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" type="text/css" href="/static/style.css" />
+</head>
+<body>
+    <div class="section1">
+        <div class="buttons">
+            <a id="docBtn" class="btn">Explore Documents</a>
+            <a id="netBtn" class="btn">Explore Networks</a>
+            <a id="guideLink" href="/manual" target="_blank" class="guide-link">
+                <img src="/static/images/user guide2.jpg" alt="User Guide" class="guide-icon">
+            </a>
+            <a href="/" class="login-image-button">
+                <img src="/static/images/user login.jpg" alt="Login" class="login-icon">
+            </a>
+        </div>
+    </div>
+    <div class="section2">
+        <h2 class="heading">Mapping the moving parts of Ireland’s food systems with Data Science</h2>
+        <p class="paragraph">
+                Ireland is known worldwide for its dedication to sustainable food systems, and the dairy industry is a shining example. But sustainability isn’t just about cutting emissions or adopting new tech—it’s about people. Farmers, processors, regulators, retailers, and consumers are all part of a huge, interconnected supply chain, and understanding how they work together is key to making real progress. That’s where data science steps in. By tapping into the power of data, we can uncover hidden patterns, spotlight opportunities, and make smarter decisions to build a greener, fairer food system.  
+
+                For this project, we’re bringing Natural Language Processing (NLP) and Knowledge Graphs into the mix. Imagine sifting through mountains of reports, policies, and research papers to extract the juicy details—who’s working with who, what values they share, and where the gaps are. With NLP, that’s exactly what we’re doing. Then, we use that data to build a Knowledge Graph, a kind of interactive map that lays out relationships and connections across the dairy supply chain. This gives us a clearer picture of how people collaborate, what drives them, and how we can work together to supercharge Ireland’s sustainability ambitions.
+            </p>
+    </div>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const accessLevel = urlParams.get("access");
+
+        document.getElementById("docBtn").href = `/search?access=${accessLevel}`;
+        document.getElementById("netBtn").href = `/network?access=${accessLevel}`;
+    </script>
+</body>
+</html>

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Search</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <a id="homeLink" href="/index" class="home-link">
+        <img src="/static/images/icon.jpg" alt="Home" class="home-icon">
+    </a>
+    <div class="buttons">
+            <a id="docBtn" class="btn">Explore Documents</a>
+            <a id="guideLink" href="/manual" target="_blank" class="guide-link">
+                <img src="/static/images/user guide2.jpg" alt="User Guide" class="guide-icon">
+            </a>
+        </div>
+    <div class="networksection1">
+        <h2 class="headingnetwork1">What Does This Knowledge Graph Reveal?</h2>
+        <p class="paragraphnetwork2">
+            This knowledge graph is more than just a web of connections—it’s a living, breathing map of relationships, ideas, and influences. At its core, it captures how people are interconnected with organizations, regions, and their roles within those spaces. It shows not only where they belong but also the policies they mention and their unique perspectives on them. 
+            Dive in, and you’ll see how an individual’s voice links to the broader network. From highlighting the organizations they associate with to their stance on critical policies, this graph unpacks the “who,” “where,” and “what” of the ecosystem. Want to know how a particular policy resonates within a specific region or what leaders from different organizations think about it? This graph lays it all out, visually and intuitively, offering a powerful way to explore complex dynamics and uncover hidden insights.  
+            It’s not just data—it’s a story of collaboration, influence, and innovation.
+        </p>
+        <div class="buttonblack">
+            <a id="networkFirstBtn" href="/completenetwork" class="btnblk">Discover more!</a>
+        </div>
+    </div>
+    <div class="networksection2">
+        <script>
+            const urlParams = new URLSearchParams(window.location.search);
+            const accessLevel = urlParams.get("access");
+
+            document.getElementById("docBtn").href = `/search?access=${accessLevel}`;
+            
+            if (homeLink) {
+                homeLink.href = `/index?access=${accessLevel}`;
+            }
+            
+            const networkBtn = document.getElementById("networkFirstBtn");
+            if (networkBtn && accessLevel) {
+                networkBtn.href = `/completenetwork?access=${accessLevel}`;
+            }
+            document.addEventListener("DOMContentLoaded", () => {
+                // Fetch data from the backend
+                fetch("/get_network")
+                    .then(response => response.json())
+                    .then(data => renderNetwork(data));
+
+                function renderNetwork(data) {
+                    const width = 1300;
+                    const height = 1000;
+
+                    const svg = d3.select(".networksection2")
+                        .append("svg")
+                        .attr("width", width)
+                        .attr("height", height)
+                        .call(d3.zoom()
+                            .scaleExtent([0.5, 5]) // Define zoom scale limits
+                            .on("zoom", (event) => {
+                                g.attr("transform", event.transform); // Apply zoom transform
+                            }));
+
+                    const g = svg.append("g");
+
+                    const simulation = d3.forceSimulation(data.nodes)
+                        .force("link", d3.forceLink(data.links).id(d => d.id).distance(50))
+                        .force("charge", d3.forceManyBody().strength(-50))
+                        .force("center", d3.forceCenter(width / 2, height / 2));
+
+                    // Add links
+                    const link = g.append("g")
+                        .selectAll("line")
+                        .data(data.links)
+                        .enter().append("line")
+                        .attr("stroke-width", 1)
+                        .style("stroke", "#aaa");
+
+                    // Add tooltip div
+                    const tooltip = d3.select("body").append("div")
+                        .attr("class", "tooltip")
+                        .style("position", "absolute")
+                        .style("background", "#f9f9f9")
+                        .style("border", "1px solid #ccc")
+                        .style("padding", "5px 10px")
+                        .style("border-radius", "4px")
+                        .style("pointer-events", "none")
+                        .style("opacity", 0);
+
+                    // Add nodes
+                    const node = g.append("g")
+                        .selectAll("circle")
+                        .data(data.nodes)
+                        .enter().append("circle")
+                        .attr("r", 5)
+                        .attr("fill", "#ffffff")
+                        .on("mouseover", (event, d) => {
+                            tooltip
+                                .style("opacity", 1)
+                                .html(`<strong>Label:</strong> ${d.label}`)
+                                .style("left", (event.pageX + 10) + "px")
+                                .style("top", (event.pageY - 10) + "px");
+                        })
+                        .on("mouseout", () => {
+                            tooltip.style("opacity", 0);
+                        });
+
+                    // Update simulation positions
+                    simulation.on("tick", () => {
+                        link
+                            .attr("x1", d => d.source.x)
+                            .attr("y1", d => d.source.y)
+                            .attr("x2", d => d.target.x)
+                            .attr("y2", d => d.target.y);
+
+                        node
+                            .attr("cx", d => d.x)
+                            .attr("cy", d => d.y);
+                    });
+                }
+                
+            });
+        </script>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Quick Tour</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <style>
+    section h2 {
+        text-align: center;
+        font-family: "Arial", Helvetica, sans-serif;
+        font-size: 20px;
+    }
+  </style>
+</head>
+<body>
+  <a id="homeLink" href="/index" class="home-link">
+        <img src="/static/images/icon.jpg" alt="Home" class="home-icon">
+    </a>
+
+  <div class="networkquerysection1">
+  <form id="tableForm">
+    <label>Quick Tour</label>
+    <div class="button-row">
+      <button type="button" onclick="scrollToSection('begin')">Begin</button>
+      <button type="button" onclick="scrollToSection('documentSearch')">Explore Document</button>
+      <button type="button" onclick="scrollToSection('networkSearch')">Explore Network</button>
+      <button type="button" onclick="scrollToSection('actionPlanAction')">Action Plans by Action</button>
+      <button type="button" onclick="scrollToSection('actionPlanStakeholders')">Action Plans by Stakeholders</button>
+      <button type="button" onclick="scrollToSection('sentimentAnalysis')">Sentiment Analysis</button>
+      <button type="button" onclick="scrollToSection('stakeholderMapping')">Stakeholder Mapping</button>
+    </div>
+  </form>
+</div>
+  
+<section id="begin" class="manual-section">
+    <h2 style="text-align: center;">Let's Begin</h2>
+    <img src="/static/images/login_ss.jpg" class="manual-image">
+    <p class="center-text">
+        The application interface initiates with a <strong>Login button</strong> that facilitates access based on predefined <em>Levels of Access</em>. This access management mechanism ensures that individuals interact with the system in accordance with their designated roles, thereby maintaining data integrity and security across various modules.
+    </p>
+    <img src="/static/images/logined_ss.jpg" class="manual-image">
+    <p class="center-text">
+        Upon successful login, the main dashboard provides three core navigation options:
+        <br><br>
+        <strong>Explore Document:</strong> Enables keyword-based search across a repository of transcripts. The system supports the use of separators such as <em>AND</em> and <em>OR</em>. The output highlights the top five documents and associated speaker mentions where the keywords are most relevant, offering a concise view of contextual usage.
+        <br><br>
+        <strong>Explore Network:</strong> Grants access to an interactive knowledge graph derived from a wide range of sources, including Action Plans, Strategy Documents, Publications, and Transcripts. This module is designed to visualize interconnections between entities such as actions, stakeholders, and themes for comprehensive analytical exploration.
+        <br><br>
+        <strong>Logout:</strong> Facilitates secure exit from the session and redirects to the login interface, enabling re-authentication or transition between access levels as required.
+    </p>
+</section>
+
+<section id="documentSearch" class="manual-section">
+    <h2 style="text-align: center;">Explore Documents</h2>
+    <img src="/static/images/documentKeyword_ss.jpg" class="manual-image">
+    <p class="center-text">
+        The Document Search module facilitates targeted exploration across a repository of <em>Transcripts</em> using keyword-based queries. Users can specify their search terms with logical separators—<em>AND</em> or <em>OR</em>—to refine the scope of results.
+    </p>
+    <p class="center-text">
+        <strong>Search Logic:</strong> The keywords entered are processed using the selected logical separator:
+        <br>
+        AND: Only documents or speakers that contain all specified keywords are retrieved.
+        <br>
+        OR: Results include documents or speakers that contain any of the specified keywords.
+        <br><br>
+        <strong>Search Modes</strong>
+        <br>
+        <img src="/static/images/documentSearch_ss.jpg" class="manual-image-larger">
+        Document Search: Returns the top 5 documents in which the keywords appear most frequently. This allows users to quickly identify the most relevant documents based on their search criteria.
+        <br>
+        <img src="/static/images/speakerSearch_ss.jpg" class="manual-image-larger">
+        Speaker Search: Retrieves the top 5 speakers who have used the keywords most frequently within the transcripts. Each speaker is identified by a combination of their Organisation and Designation, providing clarity on institutional affiliation and role.
+        <br><br>
+        <strong>Result Structure</strong>
+        <br>
+        Both search modes present results that include:
+        <br>
+        The matching Document Name or Speaker Identity.
+        <br>
+        The frequency count of the keywords found, computed based on the selected logical operator (AND / OR).
+    </p>
+</section>
+
+
+<section id="networkSearch" class="manual-section">
+    <h2 style="text-align: center;">Explore Networks</h2>
+    <img src="/static/images/networkSearch_ss.jpg" class="manual-image-larger">
+    <p class="center-text">
+        The Search Networks page presents four distinct categories of graph-based exploration. Each button below corresponds to a specific way of viewing the knowledge graph, offering a structured lens into stakeholder activities, policy actions, sentiment, and interconnections across the document corpus.
+    </p>
+    <p class="center-text">
+        <strong>Action Plans by Stakeholders:</strong> Displays a network of Action Plans linked to each Stakeholder, highlighting the operational focus of each stakeholder by mapping their assigned actions.
+        <br>
+        <strong>Action Plans by Actions:</strong> Reveals the network of Stakeholders connected to a specific Action, offering insight into how a specific policy action is distributed among stakeholders.
+        <br>
+        <strong>Sentiment Analysis:</strong> Visualizes the sentiments expressed within speaker statements across Transcripts.
+        <br>
+        <strong>Stakeholder Mapping:</strong> Displays the relational structure between Stakeholders across the Publications, facilitating the identification of interactions between stakeholders. 
+
+    </p>
+</section>
+
+
+<section id="actionPlanAction" class="manual-section">
+    <h2 style="text-align: center;">Action Plans for Actions</h2>
+    <img src="/static/images/apActions_ss_1.jpg" class="manual-image-larger">
+    <p class="center-text">
+        The <b>Action Plans for Actions</b> page allows targeted exploration of actions across three major themes: <b>Carbon</b>, <b>Water</b>, and <b>Livelihood</b>. For each topic, users may choose from four views that filter and present relevant actions from specific policy documents or corpus segments.
+    </p>
+    <p class="center-text">
+        The <b>View Action Plans</b> option provides access to actions from the broader corpus of national and strategic action plans. 
+        <br>
+        <b>View Food Vision</b> narrows the focus to actions outlined within the Food Vision 2030 document, enabling exploration of its stated targets and initiatives. 
+        <br>
+        The <b> View Food Vision Report</b> option retrieves actions featured in the Annual Report 2023 of Food Vision 2030, including the ability to trace associated programmes and involved stakeholders for each action. 
+        <br>
+        Lastly, the <b>View Food Wise</b> option visualizes actions and recommendations from Food Wise 2025, offering a view of policy priorities and directions.
+    </p>
+    <img src="/static/images/apActions_ss_2.jpg" class="manual-image-larger">
+    <p class = "center-text">
+        Each result not only lists the relevant actions for the selected theme and source but also enables further exploration by <b>stakeholder</b>—allowing users to view which organisations or groups are responsible for or engaged in each specific action.
+    </p>
+    <p style="text-align: center;"><b>Action Plan, Food Vision, and Food Wise</b></p>
+    <img src="/static/images/apActions_ss_3.jpg" class="manual-image-larger">
+    <p class="center-text">
+        The View Action Plans button displays a knowledge graph representing the structure of an action plan document. 
+        <br>
+        <b>1. </b>In this graph, the node marked as <b>1</b> denotes the <b>file name</b> of the action plan being viewed. 
+        <br>
+        <b>2. </b>Node <b>2</b> represents an individual <b>action</b> extracted from the document; these actions are shortened for clarity within the graph but can be fully viewed by hovering over them. 
+        <br>
+        <b>3. </b>Node <b>3</b> shows the <b>stakeholders</b> associated with each action, as outlined in the document itself. 
+        <br>
+        <b>4. </b> Refers to the accompanying <b>table</b> displayed below the graph. This table brings together all the elements from the graph — including actions, stakeholders, and document details — in a structured format for ease of reference.
+        <br><br>
+        This serves as a representative example for how other buttons — View Food Vision, View Food Vision Report, and View Food Wise — function. 
+        Each of these retrieves knowledge graphs with a similar structure, where the full text of actions or recommendations is available via hover, and the associated stakeholders are visualized in relation to each element. 
+        For additional clarity, users are encouraged to refer to the tabular view beneath each graph, which mirrors and complements the information presented visually.
+    </p>
+    <p style="text-align: center;"><b>Food Vision Report</b></p>
+    <img src="/static/images/apActions_ss_4.jpg" class="manual-image-larger">
+    <p>
+        Within the Food Vision Report section, a more hierarchical knowledge graph structure is presented to reflect the layered format of the report. 
+        <br>
+        <b>1. </b>The node labeled as 1 represents the <b>Mission number</b>, serving as the highest-level objective in the report.
+        <br> 
+        <b>2. </b>Nested within each mission are nodes marked as 2, which denote the <b>Goals</b> set under that specific mission. 
+        <br>
+        <b>3. </b>Further embedded are nodes labeled 3, representing the <b>Actions</b> linked to each goal. 
+        <br>
+        <b>4. </b>Nodes marked 4 capture the <b>Stakeholders</b> assigned to carry out or support each action. 
+        <br>
+        <b>5. </b>Beneath the graph, 5 refers to the <b>detailed table</b> that accompanies this structure.
+        <br><br>
+        This table includes the full textual statements for each <b>Mission</b>, <b>Goal</b>, and <b>Action</b>, clearly associated with their corresponding node numbers in the graph. 
+        It also displays the relevant <b>Programme</b> under which the action is listed in the Food Vision Report, a brief <b>summary</b> from the report pertaining to the action, and the <b>stakeholders</b> referenced in the report for that action. 
+        This combined view offers a complete picture of the document's strategic layout and stakeholder engagement.
+    </p>
+
+</section>
+
+<section id="actionPlanStakeholders" class="manual-section">
+    <h2 style="text-align: center;">Action Plans for Stakeholders</h2>
+    <img src="/static/images/apStakess_1.jpg" class="manual-image-larger">
+    <p class="center-text">
+        The <b>Action Plans for Stakeholders</b> page allows targeted exploration of stakeholders across three major themes: <b>Carbon</b>, <b>Water</b>, and <b>Livelihood</b>. For each topic, users may choose from four views that filter and present relevant stakeholder from specific policy documents or corpus segments.
+    </p>
+    <p class="center-text">
+        The <b>View Action Plans</b> option provides access to stakeholder from the broader corpus of national and strategic action plans. 
+        <br>
+        <b>View Food Vision</b> narrows the focus to stakeholders outlined within the Food Vision 2030 document. 
+        <br>
+        Lastly, the <b>View Food Wise</b> option visualizes stakeholders from Food Wise 2025.
+    </p>
+    <img src="/static/images/apStakess_2.jpg" class="manual-image-larger">
+    <p class = "center-text">
+        Each result not only lists the relevant stakeholders for the selected theme but also enables further exploration by <b>action</b>—allowing users to view which actions is related to each stakeholder.
+    </p>
+    <p style="text-align: center;"><b>Action Plan, Food Vision, and Food Wise</b></p>
+    <img src="/static/images/apStakess_3.jpg" class="manual-image-larger">
+    <p class="center-text">
+        The View Action Plans by Stakeholder button displays a knowledge graph representing the structure of an action plan document. 
+        <br>
+        <b>1. </b>Node <b>1</b>represents the <b>Stakeholder</b>, serving as the focal point for associated actions.
+        <br>
+        <b>2. </b>Connected to it, node <b>2</b>displays the assigned <b>Action</b>; this label is a shortened version for clarity within the graph, while the full statement is available on hover.
+        <br>
+        <b>3. </b>Node <b>3</b> indicates the source <b>file</b> from which the Action Plan has been derived.
+        <br>
+        <b>4. </b>Node <b>4</b>refers to the accompanying <b>table</b> below, which brings together all the elements represented in the graph—providing a complete view of stakeholders, their actions, and document references in a structured tabular format.
+        <br><br>
+        This serves as a representative example for how other buttons — View Food Vision and View Food Wise — function. 
+        Each of these retrieves knowledge graphs with a similar structure, where the full text of actions or recommendations is available via hover, and the associated stakeholders are visualized in relation to each element. 
+        For additional clarity, users are encouraged to refer to the tabular view beneath each graph, which mirrors and complements the information presented visually.
+    </p>
+</section>
+
+<section id="stakeholderMapping" class="manual-section">
+    <h2 style="text-align: center;">Stakeholder Mapping</h2>
+    <img src="/static/images/publication_1.jpg" class="manual-image-larger">
+    <p class="center-text">
+        The <b>Stakeholder Mapping</b> section enables users to explore the interactions between stakeholders as derived from the corpus of publication documents. This module provides a relational view of how stakeholders connect, collaborate, or are contextually related based on the selected publications.
+        The interface presents a dropdown list containing all the available publication documents. Upon selecting a document, a list of its associated Primary Stakeholders is displayed. 
+        Each stakeholder entry includes a <b>View Stakeholder</b> button, which opens a new page to visualize the stakeholder’s network within the context of the chosen document.
+    </p>
+    <img src="/static/images/publication_2.jpg" class="manual-image-larger">
+    <p class = "center-text">
+        On the resulting network graph page, the structure consists of the following elements:
+        <br>
+        <b>1. Document Name: </b>Represents the source <b>document</b> from which the stakeholder relationships are derived.
+        <br>
+        <b>2. Author: </b>Indicates the <b>author</b> of the selected document.
+        <br>
+        <b>3. Year: </b>The publication <b>year</b> of the document.
+        <br>
+        <b>4. Primary Stakeholder: </b>The main <b>Stakeholder</b> initiating the connection.
+        <br>
+        <b>5. Tag: </b>A concise term describing the <b>nature of the relationship</b> between the Primary and Secondary Stakeholders. Hovering over a Tag node reveals the context from the document, offering deeper insight into the connection.
+        <br>
+        <b>6. Secondary Stakeholder: </b>The Stakeholder related to the Primary Stakeholder through the specified context.
+        <br>
+        <b>4. Tabular Viewr: </b>Positioned below the graph, this table consolidates all the network information—providing structured details such as document metadata, stakeholders, tags, and their corresponding contextual statements.
+    </p>
+</section>
+
+<script>
+    function scrollToSection(id) {
+        const section = document.getElementById(id);
+        if (section) section.scrollIntoView({ behavior: "smooth" });
+    }
+</script>
+
+</body>
+</html>
+</body>
+</html>

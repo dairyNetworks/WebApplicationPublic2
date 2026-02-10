@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Stakeholder Map</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+
+  <style>
+    table {
+      width: 50%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    thead {
+      background-color: rgba(255, 255, 255, 0.5);
+      backdrop-filter: blur(10px);
+    }
+
+    th, td {
+      padding: 25px;
+      text-align: center;
+      font-size: 12px;
+    }
+
+    th {
+      color: #555;
+      font-weight: bold;
+      text-transform: uppercase;
+      border-bottom: 2px solid #ddd;
+    }
+
+    tbody tr:nth-child(even) {
+      background-color: rgba(255, 255, 255, 0.7);
+    }
+
+    tbody tr:nth-child(odd) {
+      background-color: rgba(255, 255, 255, 0.9);
+    }
+
+    tbody tr:hover {
+      background-color: rgba(200, 230, 255, 0.9);
+    }
+
+    td {
+      color: #333;
+      font-size: 15px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <a id="homeLink" href="/index" class="home-link">
+            <img src="/static/images/icon.jpg" alt="Home" class="home-icon">
+  </a>
+  <div class="buttons">
+    <a id="btnSentimentStats" href="/sentimentstats" class="btn">Sentiment Analysis</a>
+    <a id="btnActionStakeholder" href="/actionstakeholder" class="btn">Action Plans for Stakeholders</a>
+    <a id="btnActionQuery" href="/actionquery" class="btn">Action Plans by Actions</a>
+    <a id="guideLink" href="/manual" target="_blank" class="guide-link">
+      <img src="/static/images/user guide2.jpg" alt="User Guide" class="guide-icon">
+    </a>
+            <!--<a href="/" class="login-image-button">-->
+                <!--<img src="/static/images/user login.jpg" alt="Login" class="login-icon">-->
+            <!--</a>-->
+  </div>
+  <div class="networkquerysection1">
+    <form id="tableForm">
+      <label for="query">Document Name</label>
+      <select id="query" name="query">
+        <!--<option value="D1">Ireland’s National Inventory Report</option> -->
+        <!--<option value="D2">Ireland’s Climate Change Assessment Volume 2</option>-->
+        <!--<option value="D3">Report, Climate Change: A Cross-Party Consensus for Action</option>-->
+        <!--<option value="D4">Climate Change and Sustainability in the Agriculture and Food Sectors</option>-->
+        <!--<option value="D5">Environmental Protection Agency – Ireland's Environment – An Integrated Assessment 2020</option>-->
+        <option value="D6">Compliance with the Nitrates Directive: Implications for Ireland</option>
+        <!--<option value="D7">Ireland’s Climate Change Assessment Volume 3</option> -->
+        <!--<option value="D8">Our Rural Future - Rural Development Policy 2021 - 2025</option>-->
+      </select>
+  
+      <div class="button-row">
+        <button type="button" onclick="fetchPrimaryStakeholder()">View Primary Stakeholders</button>
+      </div>
+    </form>
+  </div>
+  
+
+  <div id="table-container" style="margin-bottom: 20px;"></div>
+
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const accessLevel = urlParams.get("access");
+
+    if (accessLevel) {
+        document.getElementById("btnActionStakeholder").href = `/actionstakeholder?access=${accessLevel}`;
+        document.getElementById("btnSentimentStats").href = `/sentimentstats?access=${accessLevel}`;
+        document.getElementById("btnActionQuery").href = `/actionquery?access=${accessLevel}`;
+    }
+
+    if (homeLink) { homeLink.href = `/index?access=${accessLevel}`;}
+
+    async function fetchPrimaryStakeholder() {
+      const query = document.getElementById('query').value;
+
+      try {
+        const response = await fetch(`/get_primary_stakeholders?query=${encodeURIComponent(query)}&access=${encodeURIComponent(accessLevel || "")}`);
+        const data = await response.json();
+        console.log("Received data:", data);
+
+        if (data.stakeholders && data.stakeholders.length > 0) {
+        renderPrimaryStakeholder(data.stakeholders);
+        } else {
+        document.getElementById("table-container").innerHTML = "<p>No stakeholders found.</p>";
+        }
+      } catch (error) {
+        console.error("Error fetching table data:", error);
+      }
+    }
+
+    function renderPrimaryStakeholder(data) {
+        const container = document.getElementById("table-container");
+        container.innerHTML = "";
+
+        const table = document.createElement("table");
+        table.classList.add("table", "table-striped", "table-hover");
+
+        const thead = document.createElement("thead");
+        const headerRow = document.createElement("tr");
+
+        const stakeholderTh = document.createElement("th");
+        stakeholderTh.textContent = "Stakeholder";
+        headerRow.appendChild(stakeholderTh);
+
+        const actionTh = document.createElement("th");
+        actionTh.textContent = "Action";
+        headerRow.appendChild(actionTh);
+
+        thead.appendChild(headerRow);
+        table.appendChild(thead);
+
+        const tbody = document.createElement("tbody");
+        const selectedQuery = document.getElementById('query').value;
+        //const primaryStakeholder = document.getElementById('primaryStakeholder').value;
+
+        data.forEach(stakeholder => {
+            const tr = document.createElement("tr");
+
+            const tdStakeholder = document.createElement("td");
+            tdStakeholder.textContent = stakeholder;
+            tr.appendChild(tdStakeholder);
+
+            const tdButton = document.createElement("td");
+            const btn = document.createElement("button");
+            btn.textContent = "View Stakeholder Map";
+            btn.classList.add("btn", ".btn-custom-small");
+            btn.onclick = () => {
+            const url = `/secondarystakeholder.html?query=${encodeURIComponent(selectedQuery)}&primaryStakeholder=${encodeURIComponent(stakeholder)}&access=${encodeURIComponent(accessLevel || "")}`;
+            window.open(url, "_blank");
+            };
+
+            tdButton.appendChild(btn);
+            tr.appendChild(tdButton);
+
+            tbody.appendChild(tr);
+        });
+
+        table.appendChild(tbody);
+        container.appendChild(table);
+        }
+
+  </script>
+</body>
+</html>
